@@ -1,2 +1,3 @@
 name: dthor -
 markdown: mrkdown
+permalink: /blog/:year/:month/:day/:title
