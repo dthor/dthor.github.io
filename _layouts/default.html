@@ -2,8 +2,9 @@
 	<html>
 		<head>
 			<title>{{ page.title }}</title>
-			<!-- link to main stylesheet -->
+			
 			<link rel="stylesheet" type="text/css" href="/css/main.css">
+			
 			<!--adding font awesome-->
             		<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
 
@@ -19,10 +20,11 @@
 		<body>
 			<nav>
 	    		<ul>
-	        		<li><a href="/">Home</a></li>
-		        	<li><a href="/about">About</a></li>
-	        		<li><a href="/cv">CV</a></li>
-	        		<li><a href="/blog">Blog</a></li>
+	        	<li {%if page.title == 'Home' %}class="activepage"{% endif %}><a href="/">Home</a></li>
+   			<li {%if page.title == 'About' %}class="activepage"{% endif %}><a href="/about/">About</a></li>
+   			<li {%if page.title == 'CV' %}class="activepage"{% endif %}><a href="/research/">CV</a></li>
+   			<li {%if page.title == 'Blog' %}class="activepage"{% endif %}><a href="/blog/">Blog</a></li>
+   			
 	    		</ul>
 			</nav>
 			<div class="container">
