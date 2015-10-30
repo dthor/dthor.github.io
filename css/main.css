@@ -1,7 +1,7 @@
 html { margin: 30px auto; width: 70%; font-size: 100%; }
 body { margin: 0px auto; width: 100%; font-size: 100%; }
 
-a { text-decoration: none; color: #E14000; }
+a { text-decoration: none; color: #008000; }
 a:hover { text-decoration: underline; }
 
 p, ul { font-size: 1.1em; line-height: 1.3em; color: #333; font-family: 'fira sans'; }
@@ -19,10 +19,10 @@ nav ul, footer ul a { color: #999; }
 
 nav ul a { color: #999; font-size: 1.2em; font-weight: normal; }
 nav ul li a { color: #999; font-size:1.2em; font-weight: normal;}
-nav ul li a:hover { text-decoration: none; color: #E14000;}
-nav ul .activepage a { color: #E14000; font-size: 1.6em; font-weight: bold;}
-nav ul li .activepage a { color: #E14000; font-size: 1.6em; font-weight: bold;}
-nav ul li .activepage a:hover { text-decoration: none; color: #000000;}
+nav ul li a:hover { text-decoration: none; color: #008000;}
+nav ul .activepage a { color: #008000; font-size: 1.6em; font-weight: bold;}
+nav ul li .activepage a { color: #008000; font-size: 1.6em; font-weight: bold;}
+nav ul li .activepage a:hover { text-decoration: none; color: #008000;}
 
 nav { border-top: 1px solid #d5d5d5; border-bottom: 1px solid #d5d5d5; }
 footer { border-top: 1px solid #d5d5d5; font-size: 1.4em; }
