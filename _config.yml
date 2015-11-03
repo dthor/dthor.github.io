@@ -1,3 +1,7 @@
 name: dthor
+
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
+
+baseurl: "" # subpath of your site
+url: "http://dthor.github.io" # the base hostname and protocol for your site
