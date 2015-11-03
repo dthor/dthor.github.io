@@ -1,6 +1,7 @@
 name: dthor
 
 markdown: kramdown
+highlighter: pygments
 permalink: /blog/:year/:month/:day/:title
 
 baseurl: "" # subpath of your site
