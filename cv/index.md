@@ -4,10 +4,6 @@ title: CV
 permalink: /cv/
 ---
 
-
-[Download CV](CV_2015_Oct_dthornbrugh.pdf "Download CV as PDF")
-
-
 ## Curriculum Vitae
 # Darren Thornbrugh
 
