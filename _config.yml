@@ -11,12 +11,3 @@ source: E:/R/github/dthor.github.io
 destination: E:/R/github/dthor.github.io 
 
 encoding: utf-8
-
-#~~~~~~~~~~~~~~~~
-github: [metadata]
- kramdown:
-   input: GFM
-   hard_wrap: false
- gems:
-   - jekyll-coffeescript
-   - jekyll-paginate
