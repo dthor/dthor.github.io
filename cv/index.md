@@ -5,7 +5,7 @@ permalink: /cv/
 ---
 
 ## Curriculum Vitae
-# Darren Thornbrugh
+## Darren Thornbrugh
 
 Ecologist                             
 ORISE Post-Doctoral Fellow   
@@ -17,7 +17,7 @@ Corvallis, OR 97333
 <span class="obfuscate">thornbrugh.darren@epa.gov</span></address>
 
 ## RESEARCH INTERESTS
-
+---
 - Aquatic Landscape Ecology
 -	Community Assembly Theory
 -	Trait-Based Ecology and Biological Assessment

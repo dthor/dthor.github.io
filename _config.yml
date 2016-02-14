@@ -1,13 +1,36 @@
 name: dthor
 
+author:
+name: Darren Thornbrugh
+email: dthornbr@gmail.com
+givenName: Darren
+familyName: Thornbrugh
+publisedName: Darren J. Thornbrugh
+github: dthor
+
 markdown: kramdown
 highlighter: rouge
+highlighter: pygments
 permalink: /blog/:year/:month/:day/:title
 
 baseurl: "" # subpath of your site
 url: "http://dthor.github.io" # the base hostname and protocol for your site
 
-source: E:/R/github/dthor.github.io
-destination: E:/R/github/dthor.github.io 
+title: dthor.github.io
+subtitle:
+tagline:
+description:
+
+keywords: aquatic, ecology, streams, rivers, freshwater, fish, macroinvertebrates 
+
+keywords:
+
+# contact and social media links
+email: dthornbr@gmail.com
+research gate:
+
+
+source: C:/Users/dthor/dthor.github.io
+destination: C:/Users/dthor/dthor.github.io/_site 
 
 encoding: utf-8
