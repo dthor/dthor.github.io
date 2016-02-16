@@ -1,13 +1,13 @@
 --- 
 layout: default 
-title: CV
-permalink: /cv/
+title: ""
 ---
+#### Curriculum Vitae
+[Download CV](CV_2016Feb_dthornbrugh.pdf "Download CV as PDF")
 
-## Curriculum Vitae
-## Darren Thornbrugh
-
-Ecologist                             
+### Darren Thornbrugh
+***
+**Ecologist**                             
 ORISE Post-Doctoral Fellow   
 Environmental Protection Agency   
 Western Ecology Division   
@@ -16,9 +16,11 @@ Corvallis, OR 97333
 <abbr title="phone">cell:</abbr> 517.755.9622  
 <span class="obfuscate">thornbrugh.darren@epa.gov</span></address>
 
-## RESEARCH INTERESTS
----
+
+### RESEARCH INTERESTS
+***
 - Aquatic Landscape Ecology
+- Watershed Integrity/Health/Resources
 -	Community Assembly Theory
 -	Trait-Based Ecology and Biological Assessment
 -	Native Fish Species Conservation
@@ -26,28 +28,32 @@ Corvallis, OR 97333
 -	Whole Stream/River Ecology
 -	Integrated use of GIS and Remote Sensing with Stream Ecology
 
-##EDUCATION
+
+### EDUCATION
+***
 **PhD in Fisheries & Wildlife** 2009-2014. Department of Fisheries & Wildlife, College of Agriculture & Natural Resources, Michigan State University, East Lansing, Michigan  
 **Ms in Biology** 2006-2007. Division of Biology, College of Arts & Sciences, Kansas State University, Manhattan, Kansas  
 **BA in Environmental Studies** 1999-2001. College of Arts & Sciences, University of Nebraska, Lincoln, Nebraska  
 **BS in Geography** 1994-2000. Minor: Biology, College of Arts & Sciences, University of Nebraska, Lincoln, Nebraska
 
-##FELLOWSHIP AWARDS AND FUNDING
--  Austrian Marshall Plan Foundation Scholarship. 2013. $10931, Exchange student at Institute of Hydrobiology and Aquatic Ecosystem Management, University of Natural Resources and Life Sciences (BOKU), Vienna, Austria.
+
+### FELLOWSHIP AWARDS AND FUNDING
+***
+- Austrian Marshall Plan Foundation Scholarship. 2013. $10931, Exchange student at Institute of Hydrobiology and Aquatic Ecosystem Management, University of Natural Resources and Life Sciences (BOKU), Vienna, Austria.
 -	Dr. Howard A. Tanner Fisheries Excellence Fellowship. 2011-2012. $2500, Department of Fisheries and Wildlife Fellowship, Michigan State University
--	Red Cedar Fly Fishers Graduate Fellowship in Fisheries Management. 2011.
-$1000, Red Cedar Fly Fishers, Okemos, Michigan
+-	Red Cedar Fly Fishers Graduate Fellowship in Fisheries Management. 2011. $1000, Red Cedar Fly Fishers, Okemos, Michigan
 -	Robert C. and Betty A. Ball Department of Fisheries and Wildlife Fellowship. 2010-2011. $5000, Michigan State University
 -	Bridge Fellowship. 2009-2010. College of Agriculture and Natural Resources, Michigan State University
 -	Summer Recruitment Fellowship. 2009. College of Agriculture and Natural Resources, Michigan State University
 
-##PUBLICATIONS
-###10 publications since 2005
 
-####In press
+### PUBLICATIONS
+***
+####10 publications since 2005
+#####In press
 [10] Tsang, Y., D. M. Infante, J. Stewart, L. Wang, R. Tingly, **D. Thornbrugh**. Accepted. StreamThermal1.0: A software package for calculating thermal metrics from stream temperature data. Fisheries.
 
-[9] Hill, R. A., M. H. Weber, S. G. Leibowitz, A. R. Olsen, and **D. J. Thornbrugh**. Accepted. The Stream-Catchment (StreamCat) Dataset: A database of watershed metrics for the conterminous USA. Journal of the American Water Resources Association.
+[9] Hill, R. A., M. H. Weber, S. G. Leibowitz, A. R. Olsen, and **D. J. Thornbrugh**. 2015. The Stream-Catchment (StreamCat) Dataset: A database of watershed metrics for the conterminous USA. Journal of the American Water Resources Association.
 
 [8] **Thornbrugh, D. J.** 2014. Regional Influences of Landscape Features and Processes on Fluvial Fish Assemblages. Doctoral dissertation, Department of Fisheries and Wildlife, Michigan State University, East Lansing, MI, ProQuest.[Thesis] (http://etd.lib.msu.edu/islandora/object/etd%3A2967).
 
@@ -65,21 +71,29 @@ $1000, Red Cedar Fly Fishers, Okemos, Michigan
 
 [1] Schooley, J. D., P.C. Marsh, B. R. Kesner, J. C. Lee, and **D. J. Thornbrugh**. In press. Survival of razorback suckers stocked to the lower Colorado River, Parker-Laguna: perspective on historical and present recovery efforts.  Proceedings of the Desert Fishes Council.  2005.
 
-##IN PREPARATION
-[3] **Thornbrugh, D. J.**, D. M. Infante and Y. Tsang. In Preparation. Regional trends of biodiversity indices: natural landscape and human land use controls on stream fish assemblages. Diversity and Distributions.
 
-[2] **Thornbrugh, D. J.**, and D. M. Infante. In Preparation. Landscape effects on fluvial fish assemblage structure: region-specific response to human land uses. Ecological Application.
+###IN PREPARATION
+***
+[4] **Thornbrugh, D. J.**, S. G. Leibowitz, R. A. Hill, M. H. Weber, J. L. Stoddard, and J. E. Flotemersch. _In Preparation_. Mapping Watershed Integrity for the Conterminous United States. Ecological Applications.
 
-[1] **Thornbrugh, D. J.**, D. M. Infante, Y. Tsang, A. Moerke, T. Brenden, and C. Huckins. In Preparation. Multiple facets of a streams’s thermal regime: effects of stream temperature on Michigan’s fluvial fish assemblages. Transactions of the American Fisheries Society.
+[3] **Thornbrugh, D. J.**, D. M. Infante and Y. Tsang. _In Preparation_. Regional trends of biodiversity indices: natural landscape and human land use controls on stream fish assemblages. Diversity and Distributions.
 
-##TECHNICAL REPORTS
+[2] **Thornbrugh, D. J.**, and D. M. Infante. _In Preparation_. Landscape effects on fluvial fish assemblage structure: region-specific response to human land uses. Ecological Application.
+
+[1] **Thornbrugh, D. J.**, D. M. Infante, Y. Tsang, A. Moerke, T. Brenden, and C. Huckins. _In Preparation_. Multiple facets of a streams’s thermal regime: effects of stream temperature on Michigan’s fluvial fish assemblages. Transactions of the American Fisheries Society.
+
+
+###TECHNICAL REPORTS
+***
 [3] **Thornbrugh, D. J.** 2013. Developing greater understanding of functional response of stream fishes to natural and anthropogenic landscape gradients across large regions. Marshall Plan Scholarship papers, Austrian Marshall Plan Foundation, University of Natural Resources and Applied Life Sciences (BOKU) Vienna, Austria. < http://www.marshallplan.at/index.php/publications>
 
 [2] Esselman, P. C., D. M. Infante, L. Wang, W. W. Taylor, R. Tingley, J. Fenner, A. Cooper, D. Wieferich, **D. Thornbrugh**, J. Ross. In Review. A landscape assessment of fish habitat conditions in United States rivers and their watersheds. Report by the Assessment Team to the Science and Data Committee and Board of the National Fish Habitat Action Plan.
 
 [1]	Lee, J. C., J. D. Schooley, B. R. Kesner, **D. J. Thornbrugh**, and P. C. Marsh. 2005. Dispersal of Radio-Tagged Razorback Suckers Released into the Lower Colorado River. 52 pages
 
-##PROFESSIONAL/WORK EXPERIENCE
+
+###PROFESSIONAL/WORK EXPERIENCE
+***
 Dec. 2014 – present	Post-Doctoral Research Fellow w/, Oak Ridge Institute for Science and Education (ORISE), at U.S. Environmental Protection Agency (EPA) National Health and Environmental Effects research Laboratory (NHEERL), Western Ecology Division (WED), Freshwater Ecology Branch (FEB), Corvallis, OR
 
 May 2009 – Dec. 2014	Graduate Research Assistant (PhD), Department of Fisheries and Wildlife, Michigan State University, East Lansing, MI. (Dana M. Infante)
@@ -126,7 +140,9 @@ Quality, Surface Water Division, State of Nebraska. Lincoln, NE
 March 1999 - June 1999	Horticulture Assistant, Campbell’s Nurseries and Garden
 Center Inc. Lincoln, NE
 
-##COURSE INSTRUCTION
+
+###COURSE INSTRUCTION
+***
 2013	Hydrobiology (in Eng.), guest teaching assistant,
 Institute of Hydrobiology and Aquatic Ecosystem Management, University of Natural Resources and Life Sciences (BOKU), Vienna, Austria.
 
@@ -138,12 +154,15 @@ Research Assistant, Michigan State University, East Lansing, Michigan
 Teaching Assistant, Michigan State University, East Lansing Michigan 2006 – 2007	Principles of Biology, 3 semesters
 Graduate Teaching Assistant, Kansas State University, Manhattan, Kansas
 
-##MANUSCRIPT REVIEWER
+
+###MANUSCRIPT REVIEWER
+***
 -	Ecology of Freshwater Fish
 -	Transaction of the American Fisheries Society
 
-##PROFESSIONAL SOCIETY AFFILIATIONS
 
+###PROFESSIONAL SOCIETY AFFILIATIONS
+***
 -	Society of Freshwater Science (2014 - present)
 -	American Fisheries Society (2009 - present)
 -	Michigan Chapter of American Fisheries Society (2010 - 2014)
@@ -158,8 +177,9 @@ Graduate Teaching Assistant, Kansas State University, Manhattan, Kansas
 -	Desert Fishes Council (2004-2005)
 -	Colorado River Aquatic Biologist’s (2004-2005)
 
-#PRESENTATIONS
 
+###PRESENTATIONS
+***
 [22] Flotemersch J., S. Leibowitz, R. Hill, J. Stoddard, M. Thoms, R. Tharme and **D. Thornbrugh**. August 27, 2015. A Watershed Integrity Definition and Assessment Approach to Support Strategic Management of Watersheds. Bienneal Symposium of the Internation Society for River Science, La Crosse, Wisconsin USA. (oral presentation)
 
 [21] **Thornbrugh D. J**., S. G. Leibowitz, R. A. Hill, J. E. Flotemersch, M. Weber and J. L. Stoddard. August 20, 2015. Mapping Watershed Integrity for the Conterminous United States. 145th Annual Meeting of American Fisheries Society (AFS) Portland, Oregon USA. (oral presentation)
@@ -205,4 +225,3 @@ Graduate Teaching Assistant, Kansas State University, Manhattan, Kansas
 
 [1] Gido, K. B., **D. J. Thornbrugh**, B. Oakes, J. Falke, L. Knight. January 2006. Development of aquatic GAP in Kansas. Kansas Chapter of the American Fisheries Society. (poster)
 
-</div>
