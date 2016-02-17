@@ -3,7 +3,7 @@ layout: default
 title: ""
 ---
 #### Curriculum Vitae
-[Download CV](https://github.com/dthor/dthor.github.io/blob/master/cv/CV_2016Feb_dhornbrugh.pdf "Download CV as PDF")
+[Download CV](/cv/CV_2016Feb_dhornbrugh.pdf "Download CV as PDF")
 
 ### Darren Thornbrugh
 ***
