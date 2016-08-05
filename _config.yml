@@ -13,7 +13,7 @@ highlighter: rouge
 permalink: /blog/:year/:month/:day/:title
 
 baseurl: "" # subpath of your site
-url: "https://dthor.github.io" # the base hostname and protocol for your site
+url: "http://dthor.github.io" # the base hostname and protocol for your site
 
 header: yes
 header_large: images/dee_santiam_river_clip.JPG
