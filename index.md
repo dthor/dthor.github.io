@@ -1,7 +1,6 @@
 ---
 layout: page
-title: ''
-permalink: /home/
+title: 'Home'
 ---
 <a href="http://dthor.github.io/" title="Darren Thornbrugh, Ph.D."><img src="/images/Manistee_w1335x260.jpg" class="header-image" width="" height="" style="margin-bottom:10px; border:1px solid #000000;" alt="Darren Thornbrugh, Ph.D.">
 
