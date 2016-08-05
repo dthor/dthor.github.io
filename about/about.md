@@ -6,7 +6,7 @@ header: yes
 header: images/dee_santiam_river_clip.JPG
 ---
 
-<a href="https://dthor.github.io/" title="Darren Thornbrugh, Ph.D."><img src="/images/dee_santiam_river_med.jpg" class="header-image" width="1335px" height="" style="margin-bottom:10px; border:1px solid #000000;" alt="Darren Thornbrugh, Ph.D.">
+<a href="http://dthor.github.io/" title="Darren Thornbrugh, Ph.D."><img src="/images/dee_santiam_river_med.jpg" class="header-image" width="1335px" height="" style="margin-bottom:10px; border:1px solid #000000;" alt="Darren Thornbrugh, Ph.D.">
 
 ***
 
