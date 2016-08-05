@@ -1,15 +1,12 @@
----
-layout: default
-title: dthor
----
 <!DOCTYPE html>
 <html>
-	<head>
+      <head>
+			
 			<title>{{ page.title }}</title>
-			
-			<link rel="stylesheet" type="text/css" href="/css/main.css">
-			
-			<!--adding font awesome-->
+
+            <link rel="stylesheet" type="text/css" href="/css/main.css">
+
+            <!--adding font awesome-->
             <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
 
             <!--adding fira sans-->
@@ -20,31 +17,55 @@ title: dthor
 
             <!--adding pure grids-->
             <link rel="stylesheet" href="http://yui.yahooapis.com/pure/0.6.0/pure-min.css">
+
+            {% include analytics.html %}
 		
-	 </head>
-	 <body>
-	 <div>
-           <p><span style="font-size: 200%">Darren Thornbrugh</span> <span style="font-size: 110%"> Aquatic Ecologist</span></p>
-     </div>
-	<nav>
+      </head>
+
+
+      <body>
+	  
+	  <div>
+            <p><span style="font-size: 230%"><strong>Darren</strong><strong>Thornbrugh</strong></span><span style="font-size:120%; color:#999; margin-bottom:-20px">Aquatic Ecologist</span>
+			<h4 style="color:#4682B4; font-size:70%; margin-top:-15px" id="site-description">Fluvial Ecosystems, Bioassessment, Water Quality, Watershed Science, Geospatial Analysis, Statistics</h4></p>
+			<!-- home page banner -->
+			<!--a href="https://dthor.github.io/" title="Darren Thornbrugh, Ph.D."><img src="/images/dee_santiam_river_w1335.jpg" class="header-image" width="" height="" style="margin-bottom:10px; border:1px solid #000000;" alt="Darren Thornbrugh, Ph.D."-->
+			
+			</a>			
+      </div>
+
+    <nav>
 <ul>
-<li {%if page.title == 'Home' %}class="activepage"{% endif %}><a href="/">Home</a></li>
+   <li {%if page.title == 'Home' %}class="activepage"{% endif %}><a href="/home/">Home</a></li>
    <li {%if page.title == 'About' %}class="activepage"{% endif %}><a href="/about/">About</a></li>
+   <li {%if page.title == 'Research' %}class="activepage"{% endif %}><a href="/research/">Research</a></li>
+   <li {%if page.title == 'Publications' %}class="activepage"{% endif %}><a href="/publications/">Publications</a></li>
+   <li {%if page.title == 'Work Experience' %}class="activepage"{% endif %}><a href="/work/">Work Experience</a></li>
+   <li {%if page.title == 'News' %}class="activepage"{% endif %}><a href="/news/">News</a></li>
+   <li {%if page.title == 'Links' %}class="activepage"{% endif %}><a href="/links/">Links</a></li>
    <li {%if page.title == 'CV' %}class="activepage"{% endif %}><a href="/cv/">CV</a></li>
-   <li {%if page.title == 'Blog' %}class="activepage"{% endif %}><a href="/blog/">Blog</a></li>
-   			
 </ul>
-	</nav>
+    </nav>
 <div class="container">
-			
-	{{ page.content }}
-			
-	</div><!-- /.container -->
-	<footer>
-		<ul>
-			<li><a href="mailto:dthornbr@gmail.com">email</a></li>
-			<li><a href="https://github.com/dthor">github.com/dthor</a></li>
-		</ul>
-	</footer>
-    </body>
+
+  {{ content }}
+
+</div>
+
+  <footer>
+   <ul>
+   <li><a href="mailto:dthornbr@gmail.com" title="Email - personal"><i class="fa fa-fw fa-envelope"></i></a></li>
+   <li><a href="mailto:darren_thornbrugh@nps.gov" title="Email - work"><i class="fa fa-fw fa-envelope-o"></i></a></li>
+   <li><a href="https://github.com/dthor/" title="Github"><i class="fa fa-fw fa-github"></i></a></li>
+   <li><a href="https://plus.google.com/u/0/+DarrenThornbrugh/" title="Google+"><i class="fa fa-fw fa-google-plus-square"></i></a></li>
+   <li><a href="https://www.researchgate.net/profile/Darren_Thornbrugh/" title="Researchgate"><i class="ai fa-fw ai-researchgate-square"></i></a></li>
+   <li><a href="http://michiganstate.academia.edu/DarrenThornbrugh/" title="academia.edu"><i class="ai fa-fw ai-academia-square"></i></a></li>
+   <li><a href="https://scholar.google.com/citations?user=QyHytboAAAAJ&amp;hl=en" title="Google scholar"><i class="ai fa-fw ai-google-scholar-square"></i></a></li>
+   <li><a href="https://www.mendeley.com/profiles/darren-thornbrugh/" title="Mendeley"><i class="ai fa-fw ai-mendeley-square"></i></a></li>
+   <font style="font-size:12px; color:#999">Copyright © 2016 Darren Thornbrugh</font>
+
+   </ul>
+  </footer>
+  </body>
+
 </html>

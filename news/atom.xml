@@ -2,13 +2,13 @@
 layout: feed
 ---
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
+<feed xmlns="https://www.w3.org/2005/Atom">
 
-	<title>dthor's Blog</title>
-	<link href="http://dthor.github.io/blog/atom.xml" rel="self"/>
-	<link href="http://dthor.github.io/blog"/>
+	<title>dthor's News</title>
+	<link href="https://dthor.github.io/news/atom.xml" rel="self"/>
+	<link href="https://dthor.github.io/news"/>
 	<updated>{{ site.time | date_to_xmlschema }}</updated>
-	<id>http://dthor.github.io/blog</id>
+	<id>https://dthor.github.io/news</id>
 	<author>
 		<name>dthor</name>
 		<email>dthornbr@gmail.com</email>
@@ -17,9 +17,9 @@ layout: feed
 	{% for post in site.posts %}
 		<entry>
 			<title>{{ post.title }}</title>
-			<link href="http://dthor.github.io{{ post.url }}"/>
+			<link href="https://dthor.github.io{{ post.url }}"/>
 			<updated>{{ post.date | date_to_xmlschema }}</updated>
-			<id>http://dthor.github.io/{{ post.id }}</id>
+			<id>https://dthor.github.io/{{ post.id }}</id>
 			<content type="html">{{ post.content | xml_escape }}</content>
 		</entry>
 	{% endfor %}

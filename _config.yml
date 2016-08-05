@@ -13,23 +13,23 @@ highlighter: rouge
 permalink: /blog/:year/:month/:day/:title
 
 baseurl: "" # subpath of your site
-url: "http://dthor.github.io" # the base hostname and protocol for your site
+url: "https://dthor.github.io" # the base hostname and protocol for your site
+
+header: yes
+header_large: images/dee_santiam_river_clip.JPG
+header_sm: images/dee_santiam_river_w1375.jpg
 
 title: dthor.github.io
 subtitle:
 tagline:
-description:
+description: 
 
-keywords: aquatic, ecology, streams, rivers, freshwater, fish, macroinvertebrates 
-
-keywords:
+keywords: aquatic, ecology, streams, rivers, freshwater, fish, macroinvertebrates, community ecology, stream ecology, landscape ecology, watershed scientist, geospatial analysis, statistics 
 
 # contact and social media links
 email: dthornbr@gmail.com
-research gate:
 
-
-source: C:/Users/dthor/dthor.github.io
-destination: C:/Users/dthor/dthor.github.io/_site 
+source: C:/Users/DThornbrugh/dthor.github.io
+destination: C:/Users/DThornbrugh/dthor.github.io/_site 
 
 encoding: utf-8
