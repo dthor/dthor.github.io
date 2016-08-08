@@ -17,6 +17,9 @@
 
             <!--adding pure grids-->
             <link rel="stylesheet" href="http://yui.yahooapis.com/pure/0.6.0/pure-min.css">
+			
+			<!--adding viewport meta element-->
+			<meta name="viewport" content="width=device-width, initial-scale=1">
 
             {% include analytics.html %}
 		
@@ -29,14 +32,14 @@
             <p><span style="font-size: 230%"><strong>Darren</strong><strong>Thornbrugh</strong></span><span style="font-size:120%; color:#999; margin-bottom:-20px">Aquatic Ecologist</span>
 			<h4 style="color:#4682B4; font-size:70%; margin-top:-15px" id="site-description">Fluvial Ecosystems, Bioassessment, Water Quality, Watershed Science, Geospatial Analysis, Statistics</h4></p>
 			<!-- home page banner -->
-			<!--a href="http://dthor.github.io/" title="Darren Thornbrugh, Ph.D."><img src="/images/dee_santiam_river_w1335.jpg" class="header-image" width="" height="" style="margin-bottom:10px; border:1px solid #000000;" alt="Darren Thornbrugh, Ph.D."-->
+			<!--a href="http://dthor.github.io/" title="Darren Thornbrugh, Ph.D."><img src="/images/dee_santiam_river_w1335.jpg" class="pure-img" width="" height="" style="margin-bottom:10px; border:1px solid #000000;" alt="Darren Thornbrugh, Ph.D."-->
 			
 			</a>			
       </div>
 
     <nav>
 <ul>
-   <li {%if page.title == 'Home' %}class="activepage"{% endif %}><a href="/home/">Home</a></li>
+   <li {%if page.title == 'Home' %}class="activepage"{% endif %}><a href="/">Home</a></li>
    <li {%if page.title == 'About' %}class="activepage"{% endif %}><a href="/about/">About</a></li>
    <li {%if page.title == 'Research' %}class="activepage"{% endif %}><a href="/research/">Research</a></li>
    <li {%if page.title == 'Publications' %}class="activepage"{% endif %}><a href="/publications/">Publications</a></li>

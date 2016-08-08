@@ -32,6 +32,16 @@ nav { border-top: 1px solid #d5d5d5; border-bottom: 1px solid #d5d5d5; }
 footer { border-top: 1px solid #d5d5d5; font-size: 1.4em; }
 footer a:hover { color: #FF0000;}/*Hover color of footer icons red #FF0000, gray = #999 or #d5d5d5*/
 
+.vh {
+    height: 400px;
+    align-items: center;
+    display: flex;
+}
+.vh > div {
+    width: 100%;
+    text-align: left;
+    vertical-align: middle;
+}
 
 .share-page {
     text-align: left; font-family: 'fira sans'; color: #999;/*#999*/ 
