@@ -2,10 +2,12 @@
 layout: page
 title: ''
 ---
+
 <a href="http://dthor.github.io/" title="Darren Thornbrugh, Ph.D."><img src="/images/Manistee_w1335x260.jpg" class="pure-img" width="" height="" style="margin-bottom:10px; border:1px solid #000000;" alt="Darren Thornbrugh, Ph.D.">
 
 ---
-<img src="/images/NGPN_Spring2016_DThornbrugh.jpg" width="600px" align="left" style="float:left; margin-right:10px; margin-bottom:5px; border:1px solid #000000"/>
+
+<img src="/images/NGPN_Spring2016_DThornbrugh.jpg" class="pure-img" width="600px" align="left" style="float:left; margin-right:10px; margin-bottom:5px; border:1px solid #000000"/>
 
 <p text-align:justify>I recently started a new position with the National Park Service as an Aquatic Ecologist with the <a href="http://science.nature.nps.gov/im/units/ngpn/about.cfm/">Northern Great Plains Network (NGPN)</a> in May of 2016.</p>
 
