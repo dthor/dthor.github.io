@@ -3,7 +3,7 @@ layout: page
 title: ''
 permalink: /publications/
 ---
-<a href="http://dthor.github.io/" title="Darren Thornbrugh, Ph.D."><img src="/images/upN_MI_1335x350.jpg" class="pure-img" width="" height="" style="margin-bottom:10px; border:1px solid #000000;" alt="Darren Thornbrugh, Ph.D.">
+<a href="http://dthor.github.io/" title="Darren Thornbrugh, Ph.D."><img class="pure-img" src="/images/upN_MI_1335x350.jpg" width="" height="" style="margin-bottom:10px; border:1px solid #000000;" alt="Darren Thornbrugh, Ph.D.">
 
 ***
 

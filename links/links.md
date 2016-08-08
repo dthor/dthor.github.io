@@ -3,7 +3,7 @@ layout: page
 title: ''
 permalink: /links/
 ---
-<a href="http://dthor.github.io/" title="Darren Thornbrugh, Ph.D."><img src="/images/PineRiverMI_1335x300.jpg" class="pure-img" width="" height="" style="margin-bottom:10px; border:1px solid #000000;" alt="Darren Thornbrugh, Ph.D.">
+<a href="http://dthor.github.io/" title="Darren Thornbrugh, Ph.D."><img class="pure-img" src="/images/PineRiverMI_1335x300.jpg" width="" height="" style="margin-bottom:10px; border:1px solid #000000;" alt="Darren Thornbrugh, Ph.D.">
 
 ***
 
