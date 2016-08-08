@@ -2,7 +2,7 @@
 layout: page
 title: ''
 ---
-<a href="http://dthor.github.io/" title="Darren Thornbrugh, Ph.D."><img src="/images/Manistee_w1335x260.jpg" class="header-image" width="" height="" style="margin-bottom:10px; border:1px solid #000000;" alt="Darren Thornbrugh, Ph.D.">
+<a href="http://dthor.github.io/" title="Darren Thornbrugh, Ph.D."><img src="/images/Manistee_w1335x260.jpg" class="pure-img" width="" height="" style="margin-bottom:10px; border:1px solid #000000;" alt="Darren Thornbrugh, Ph.D.">
 
 ---
 <img src="/images/NGPN_Spring2016_DThornbrugh.jpg" width="600px" align="left" style="float:left; margin-right:10px; margin-bottom:5px; border:1px solid #000000"/>
