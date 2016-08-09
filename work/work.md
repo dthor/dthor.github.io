@@ -10,50 +10,37 @@ permalink: /work/
 ### PROFESSIONAL/WORK EXPERIENCE 
 
 *** 
-- May 2016 - present,	**Aquatic Ecologist** Northern Great Plains Inventory & Monitoring Network, National Park Service, Rapid City, SD
 
-- Dec. 2014 - May 2016,	**Post-Doctoral Research Fellow** w/, Oak Ridge Institute for Science and Education (ORISE), at U.S. Environmental Protection Agency (EPA) National Health and Environmental Effects research Laboratory (NHEERL), Western Ecology Division (WED), Freshwater Ecology Branch (FEB), Corvallis, OR
+- **Aquatic Ecologist** (May 2016 - present	) Northern Great Plains Inventory & Monitoring Network, National Park Service, Rapid City, SD
 
-- May 2009 - Dec. 2014,	**Graduate Research Assistant** (PhD), Department of Fisheries and Wildlife, Michigan State University, East Lansing, MI. (Dana M. Infante)
+- **Post-Doctoral Research Fellow** (Dec. 2014 - May 2016) w/ Oak Ridge Institute for Science and Education (ORISE), at U.S. Environmental Protection Agency (EPA) National Health and Environmental Effects research Laboratory (NHEERL), Western Ecology Division (WED), Freshwater Ecology Branch (FEB), Corvallis, OR	
+	
+- **Graduate Research Assistant (PhD)** (May 2009 - Dec. 2014) Department of Fisheries and Wildlife, Michigan State University, East Lansing, MI. (Dana M. Infante)
 
-- Oct. 2008 - May 2009,	**Fish & Wildlife Biologist I**, Nebraska Game & Parks
-Commission, Lincoln, NE
+- **Fish & Wildlife Biologist I** (Oct. 2008 - May 2009) Nebraska Game & Parks Commission, Lincoln, NE
 
-- Feb. 2008 - Sept. 2008,	**North Pacific Groundfish Observer**, Alaskan Observers Inc.
-Seattle, WA
+- **North Pacific Groundfish Observer** (Feb. 2008 - Sept. 2008) Alaskan Observers Inc. Seattle, WA
 
-- Aug. 2005 - Jan. 2008,	**Graduate Research/Teaching Assistant** (MS), Kansas State
-University, Division of Biology, Manhattan, KS. (Keith
-B. Gido)
+- **Graduate Research/Teaching Assistant (MS)** (Aug. 2005 - Jan. 2008) Kansas State	University, Division of Biology, Manhattan, KS. (Keith	B. Gido)
 
-- Jan. 2005 - July 2005,	**Research Technician**, Kansas State University, Division of
-Biology, Manhattan, KS
+- **Research Technician** (Jan. 2005 - July 2005) Kansas State University, Division of Biology, Manhattan, KS
 
-- Jan. 2004 - Dec. 2005,	**Research/Laboratory Assistant**, Arizona State University,
-School of Life Sciences, Tempe, AZ
+- **Research/Laboratory Assistant** (Jan. 2004 - Dec. 2005) Arizona State University, School of Life Sciences, Tempe, AZ
 
-- Jan. 2003 - Dec. 2003,	**Biological Science Technician** (fisheries) GS-05, U. S.
-Department of Interior, Fish & Wildlife Service, AZ-FRO Parker, AZ
+- **Biological Science Technician (fisheries GS-05)** (Jan. 2003 - Dec. 2003) U. S. Department of Interior, Fish & Wildlife Service, AZ-FRO Parker, AZ
 
-- Jan. 2002 - Dec. 2002,	**Environmental Compliance Specialist**, Department of
-Environmental Quality, Ground Water Division, Wellhead Protection Program, State of Nebraska, Lincoln, NE.
+- **Environmental Compliance Specialist** (Jan. 2002 - Dec. 2002) Department of Environmental Quality, Ground Water Division, Wellhead Protection Program, State of Nebraska, Lincoln, NE.
 
-- June 2001 - Nov. 2001,	**Biological Field Technician**, University of Notre Dame,
-Department of Biological Sciences, Marine Derived Nutrients project, Juneau, AK.
+- **Biological Field Technician** (June 2001 - Nov. 2001) University of Notre Dame, Department of Biological Sciences, Marine Derived Nutrients project, Juneau, AK.
 
-- April 2001 - June 2001,	**Laboratory Technician I**, Department of Environmental
-Quality, Surface Water Division, State of Nebraska. Lincoln, NE
+- **Laboratory Technician I** (April 2001 - June 2001) Department of Environmental Quality, Surface Water Division, State of Nebraska. Lincoln, NE
 
-- Nov. 2000 - March 2001,	**Cartographic Technician**, Conservation and Survey
-Division, University of Nebraska, Lincoln, NE
+- **Cartographic Technician** (Nov. 2000 - March 2001) Conservation and Survey Division, University of Nebraska, Lincoln, NE
 
-- Oct. 2000 - Dec. 2000,	**Biological Technician**, McBride Benthic Consulting Inc.,
-Lincoln, NE.
+- **Biological Technician** (Oct. 2000 - Dec. 2000), McBride Benthic Consulting Inc., Lincoln, NE.
 
-- June 2000,	**Biological Field Technician**, Nebraska Lakes Management Lincoln, NE
+- **Biological Field Technician** (June 2000) Nebraska Lakes Management Lincoln, NE
 
-- June 1999 - Aug. 2000,	**Laboratory Technician I**, Department of Environmental
-Quality, Surface Water Division, State of Nebraska. Lincoln, NE
+- **Laboratory Technician I** (June 1999 - Aug. 2000), Department of Environmental Quality, Surface Water Division, State of Nebraska. Lincoln, NE
 
-- March 1999 - June 1999,	**Horticulture Assistant**, Campbells Nurseries and Garden
-Center Inc. Lincoln, NE
+- **Horticulture Assistant** (March 1999 - June 1999), Campbells Nurseries and Garden Center Inc. Lincoln, NE
