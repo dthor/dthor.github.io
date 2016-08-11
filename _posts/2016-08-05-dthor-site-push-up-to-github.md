@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Site pused up to github.io'
+title: 'Site pushed up to github.io'
 date: 2016-08-04
 ---
 
