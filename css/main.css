@@ -43,6 +43,11 @@ footer a:hover { color: #FF0000;}/*Hover color of footer icons red #FF0000, gray
     vertical-align: left;
 }
 
+@viewport{
+    zoom: 1.0;
+    width: device-width;
+}
+
 .share-page {
     text-align: left; font-family: 'fira sans'; color: #999;/*#999*/ 
 }
@@ -52,6 +57,29 @@ footer a:hover { color: #FF0000;}/*Hover color of footer icons red #FF0000, gray
 /* Blog */
 ul.posts { margin: 20px auto 40px; font-size: 1.1em; line-height: 1.3em; font-family: 'fira sans'}
 ul.posts li { list-style: none; }
+
+/* iPhone */
+@media only screen and (width:320px) and (device-width:320px) and (device-height:480px) and (orientation: landscape) {
+	body {
+		-webkit-transform: scale(0.667);
+		-webkit-transform-origin: top right;
+		position: absolute;
+		right: 0;
+		top: 0;
+		width: 480px;
+	}
+}
+/* iPad */
+@media only screen and (width:768px) and (device-width:768px) and (device-height:1024px) and (orientation: landscape) {
+	body {
+		-webkit-transform: scale(0.75);
+		-webkit-transform-origin: top right;
+		position: absolute;
+		right: 0;
+		top: 0;
+		width: 1024px;
+	}
+}
 
  /*header {
   background: #444 url(../images/dee_santiam_river_clip.jpg) no-repeat;
