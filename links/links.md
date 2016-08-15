@@ -7,6 +7,17 @@ permalink: /links/
 
 ***
 
+### WATERSHED DATABASE - StreamCat Dataset
+***
+-	**Citation:** [Hill, Ryan A., Marc H. Weber, Scott G. Leibowitz, Anthony R. Olsen, and **Darren J. Thornbrugh**, 2016. The Stream-Catchment (StreamCat) Dataset: A Database of Watershed Metrics for the Conterminous United States. Journal of the American Water Resources Association (JAWRA) 1-9. DOI: 10.1111/1752-1688.12372.](http://onlinelibrary.wiley.com/doi/10.1111/1752-1688.12372/abstract)
+-   StreamCat Dataset - [StreamCat](https://www.epa.gov/national-aquatic-resource-surveys/streamcat)
+-   StreamCat Dataset - [Welcome](ftp://newftp.epa.gov/EPADataCommons/ORD/NHDPlusLandscapeAttributes/StreamCat/WelcomePage.html)
+-	StreamCat Dataset - [Data by HydroRegion](ftp://newftp.epa.gov/EPADataCommons/ORD/NHDPlusLandscapeAttributes/StreamCat/HydroRegions/)
+-	StreamCat Dataset - [Data by State](ftp://newftp.epa.gov/EPADataCommons/ORD/NHDPlusLandscapeAttributes/StreamCat/States/)
+-	StreamCat Dataset - [Data Dictionary](ftp://newftp.epa.gov/EPADataCommons/ORD/NHDPlusLandscapeAttributes/StreamCat/Documentation/DataDictionary.html)
+-	StreamCat Dataset - [Github](https://github.com/USEPA/StreamCat)
+-	Associated dataset - National Hydrography Dataset Version 2 [NHDPlusV2](http://www.horizon-systems.com/nhdplus/NHDplusV2_home.php)
+
 ### PROFESSIONAL SOCIETY AFFILIATIONS 
 ***
 -	[Society of Freshwater Science (2014 - present)](https://www.freshwater-science.org/)
