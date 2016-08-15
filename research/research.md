@@ -67,24 +67,15 @@ permalink: /research/
 
 ### COURSE INSTRUCTION 
 *** 
-- 2013	Hydrobiology (in Eng.), guest teaching assistant,
-Institute of Hydrobiology and Aquatic Ecosystem Management, University of Natural Resources and Life Sciences (BOKU), Vienna, Austria.
-
-- 2011	Ichthyology Lab guest lecture x2
-Teaching Assistant, Michigan State University, East Lansing, Michigan 2010 Hydrology for Watershed Management 
-Research Assistant, Michigan State University, East Lansing, Michigan
-
-- 2010  Hydrology for Watershed Management
-Research Assistant, Michigan State University, East Lansing Michigan 
-
-- 2009	Aquatic Ecosystem Management, guest lecture x1
-Teaching Assistant, Michigan State University, East Lansing Michigan 
-
-- 2006 - 2007	Principles of Biology, 3 semesters
-Graduate Teaching Assistant, Kansas State University, Manhattan, Kansas
+- 2013	**Hydrobiology** (in Eng.), guest teaching assistant, Institute of Hydrobiology and Aquatic Ecosystem Management, University of Natural Resources and Life Sciences (BOKU), Vienna, Austria.
+- 2011	**Ichthyology Lab** guest lecture x2, Teaching Assistant, Michigan State University, East Lansing, Michigan 
+- 2010	**Hydrology for Watershed Management**, Research Assistant, Michigan State University, East Lansing, Michigan
+- 2010	**Hydrology for Watershed Management** Research Assistant, Michigan State University, East Lansing Michigan 
+- 2009	**Aquatic Ecosystem Management**, guest lecture x1 Teaching Assistant, Michigan State University, East Lansing Michigan 
+- 2006 - 2007	**Principles of Biology**, 3 semesters Graduate Teaching Assistant, Kansas State University, Manhattan, Kansas
 
 
 ### MANUSCRIPT REVIEWER 
 ***
--	Ecology of Freshwater Fish
--	Transaction of the American Fisheries Society
+-	[Ecology of Freshwater Fish](http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1600-0633)
+-	[Transaction of the American Fisheries Society](http://www.tandfonline.com/loi/utaf20)
