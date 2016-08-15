@@ -54,7 +54,7 @@ permalink: /research/
 -	StreamCat Dataset - [Data by State](ftp://newftp.epa.gov/EPADataCommons/ORD/NHDPlusLandscapeAttributes/StreamCat/States/)
 -	StreamCat Dataset - [Data Dictionary](ftp://newftp.epa.gov/EPADataCommons/ORD/NHDPlusLandscapeAttributes/StreamCat/Documentation/DataDictionary.html)
 -	StreamCat Dataset - [Github](https://github.com/USEPA/StreamCat)
--	Associated dataset - National Hydrography Dataset Version 2 [NHDPlusV2](http://www.horizon-systems.com/nhdplus/NHDplusV2_home.php)
+-	Associated dataset - [National Hydrography Dataset Version 2 (NHDPlusV2)](http://www.horizon-systems.com/nhdplus/NHDplusV2_home.php)
 
 ### FELLOWSHIP AWARDS AND FUNDING 
 ***
