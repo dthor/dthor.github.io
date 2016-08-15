@@ -12,13 +12,13 @@ permalink: /publications/
 
 [10] Tsang, Y., D. M. Infante, J. Stewart, L. Wang, R. Tingly, **D. Thornbrugh**. _Accepted_. StreamThermal1.0: A software package for calculating thermal metrics from stream temperature data. Fisheries.
 
-[9] Hill, R. A., M. H. Weber, S. G. Leibowitz, A. R. Olsen, and **D. J. Thornbrugh**. 2016. The Stream-Catchment (StreamCat) Dataset: A database of watershed metrics for the conterminous USA. Journal of the American Water Resources Association.
+[9] Hill, R. A., M. H. Weber, S. G. Leibowitz, A. R. Olsen, and **D. J. Thornbrugh**. 2016. The Stream-Catchment (StreamCat) Dataset: A database of watershed metrics for the conterminous USA. Journal of the American Water Resources Association. [DOI: 10.1111/1752-1688.12372.](http://onlinelibrary.wiley.com/doi/10.1111/1752-1688.12372/abstract)]
 
 [8] **Thornbrugh, D. J.** 2014. Regional Influences of Landscape Features and Processes on Fluvial Fish Assemblages. Doctoral dissertation, Department of Fisheries and Wildlife, Michigan State University, East Lansing, MI, ProQuest.[Thesis](http://etd.lib.msu.edu/islandora/object/etd%3A2967)
 
 [7] Esselman, P. C., D. M. Infante, L. Wang, A. Cooper, D. Wieferich, Y. Tsang, **D. Thornbrugh**, and W. W. Taylor. 2013. Regional fish community indicators of landscape disturbance to catchments of the conterminous United States. Ecological Indicators 26:163-173.
 
-[6] **Thornbrugh, D. J.** and K. B. Gido. 2010. Influence of spatial positioning within stream networks on fish assemblage structure in the Kansas River basin, USA. Canadian Journal of Fisheries and Aquatic Sciences 67(1): 143-156, Erratum 67(3): 596.
+[6] **Thornbrugh, D. J.** and K. B. Gido. 2010. Influence of spatial positioning within stream networks on fish assemblage structure in the Kansas River basin, USA. Canadian Journal of Fisheries and Aquatic Sciences 67(1): 143-156, Erratum 67(3): 596. [abstract](http://www.nrcresearchpress.com/doi/abs/10.1139/F09-169#.V7IzCfkrJhE)
 
 [5] Dodds, W. K., Wes W. Bouska, J. L. Etizmann, T. J. Pilger, K. L. Pitts, A. J. Riley, J.T. Schloesser, **D. J. Thornbrugh**. 2009. Eutrophication of the U.S. Freshwaters: Analysis of Potential Economic Damages. Environmental Science and Technology 43:12-19.
 
