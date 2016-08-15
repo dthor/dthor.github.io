@@ -16,6 +16,13 @@ img {
    border:1px solid #000000;/*#32cd32 LIME GREEN*/
 }
 
+img {
+  max-width: 100%;
+
+  /* just in case, to force correct aspect ratio */
+  height: auto !important;
+}
+
 nav ul, footer ul { font-size: 1em; font-family: 'fira sans'; padding: 0px; list-style: none; font-weight: bold; }
 nav ul li, footer ul li { display: inline; margin-right: 20px; }
 
