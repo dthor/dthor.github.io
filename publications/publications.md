@@ -12,7 +12,7 @@ permalink: /publications/
 
 [10] Tsang, Y., D. M. Infante, J. Stewart, L. Wang, R. Tingly, **D. Thornbrugh**. _Accepted_. StreamThermal1.0: A software package for calculating thermal metrics from stream temperature data. Fisheries.
 
-[9] Hill, R. A., M. H. Weber, S. G. Leibowitz, A. R. Olsen, and **D. J. Thornbrugh**. 2015. The Stream-Catchment (StreamCat) Dataset: A database of watershed metrics for the conterminous USA. Journal of the American Water Resources Association.
+[9] Hill, R. A., M. H. Weber, S. G. Leibowitz, A. R. Olsen, and **D. J. Thornbrugh**. 2016. The Stream-Catchment (StreamCat) Dataset: A database of watershed metrics for the conterminous USA. Journal of the American Water Resources Association.
 
 [8] **Thornbrugh, D. J.** 2014. Regional Influences of Landscape Features and Processes on Fluvial Fish Assemblages. Doctoral dissertation, Department of Fisheries and Wildlife, Michigan State University, East Lansing, MI, ProQuest.[Thesis](http://etd.lib.msu.edu/islandora/object/etd%3A2967)
 
