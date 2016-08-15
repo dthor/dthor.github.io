@@ -70,7 +70,6 @@ permalink: /research/
 - 2013	**Hydrobiology** (in Eng.), guest teaching assistant, Institute of Hydrobiology and Aquatic Ecosystem Management, University of Natural Resources and Life Sciences (BOKU), Vienna, Austria.
 - 2011	**Ichthyology Lab** guest lecture x2, Teaching Assistant, Michigan State University, East Lansing, Michigan 
 - 2010	**Hydrology for Watershed Management**, Research Assistant, Michigan State University, East Lansing, Michigan
-- 2010	**Hydrology for Watershed Management** Research Assistant, Michigan State University, East Lansing Michigan 
 - 2009	**Aquatic Ecosystem Management**, guest lecture x1 Teaching Assistant, Michigan State University, East Lansing Michigan 
 - 2006 - 2007	**Principles of Biology**, 3 semesters Graduate Teaching Assistant, Kansas State University, Manhattan, Kansas
 
