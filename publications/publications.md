@@ -10,7 +10,7 @@ permalink: /publications/
 ### PUBLICATIONS - In Press
 ***
 
-[10] Tsang, Y., D. M. Infante, J. Stewart, L. Wang, R. Tingly, **D. Thornbrugh**. 2016. StreamThermal1.0: A software package for calculating thermal metrics from stream temperature data. Fisheries, 41:9, 548-554.
+[10] Tsang, Y., D. M. Infante, J. Stewart, L. Wang, R. Tingly III, **D. Thornbrugh**. 2016. StreamThermal1.0: A software package for calculating thermal metrics from stream temperature data. Fisheries, 41:9, 548-554.
 
 [9] Hill, R. A., M. H. Weber, S. G. Leibowitz, A. R. Olsen, and **D. J. Thornbrugh**. 2016. The Stream-Catchment (StreamCat) Dataset: A database of watershed metrics for the conterminous USA. Journal of the American Water Resources Association. [DOI: 10.1111/1752-1688.12372.](http://onlinelibrary.wiley.com/doi/10.1111/1752-1688.12372/abstract)
 
