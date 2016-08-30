@@ -17,4 +17,4 @@ National Park Service
 231 East St. Joseph Street                    
 Rapid City, SD 57701 
 
-[Download CV](/cv/CV_2016July_dthornbrugh_gh.pdf "Download CV as PDF")  
+[Download CV](/cv/CV_2016Aug_dthornbrugh_gh.pdf "Download CV as PDF")  
