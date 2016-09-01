@@ -66,21 +66,21 @@ Rapid City, SD 57701
 
 ### PRESENTATIONS 
 ***
-[26] **Thornbrugh D.**, S. Leibowitz, R. Hill, M. Weber, J. Stoddard and J. Flotemersch. May 24, 2016. Mapping Watershed Integrity for the Conterminous United States. Annual Meeting for Society of Freshwater Science (SFS) in Sacramento, California USA. (oral presentation)
+[26] **Thornbrugh D. J.**, S. Leibowitz, R. Hill, M. Weber, J. Stoddard and J. Flotemersch. May 24, 2016. Mapping Watershed Integrity for the Conterminous United States. Annual Meeting for Society of Freshwater Science (SFS) in Sacramento, California USA. (oral presentation)
 
-[25] Hill R., S. Leibowitz, A. Olsen, **D. Thornbrugh**, E. Fox and M. Weber. August 27, 2015. Variable Selection with Random Forest: Balancing Stability, Performance, and Interpretation in Ecological and Environmental Modeling. Annual Meeting for Society of Freshwater Science (SFS) in Sacramento, California USA. (oral presentation)
+[25] Hill R., S. Leibowitz, A. Olsen, **D. J. Thornbrugh**, E. Fox and M. Weber. August 27, 2015. Variable Selection with Random Forest: Balancing Stability, Performance, and Interpretation in Ecological and Environmental Modeling. Annual Meeting for Society of Freshwater Science (SFS) in Sacramento, California USA. (oral presentation)
 
-[24] **Thornbrugh D.**, S. Leibowitz, R. Hill, M. Weber, A. Olsen, J. Stoddard and J. Flotemersch. May 18, 2016. Mapping Watershed Integrity for the Conterminous United States. USEPA, National Health and Environmental Effects research Laboratory (NHEERL) Western Ecology Division (WED) Science Seminar, Corvallis, Oregon (invited oral presentation)
+[24] **Thornbrugh D. J.**, S. Leibowitz, R. Hill, M. Weber, A. Olsen, J. Stoddard and J. Flotemersch. May 18, 2016. Mapping Watershed Integrity for the Conterminous United States. USEPA, National Health and Environmental Effects research Laboratory (NHEERL) Western Ecology Division (WED) Science Seminar, Corvallis, Oregon (invited oral presentation)
 
-[23] Weber M., R. Debbout, R. Hill, S. Liebowitz, **D. Thornbrugh**, A. Olsen and T. Larsen. Feb. 25, 2016. The Stream Catchment (StreamCat) Dataset. Spatial Data Management group Oregon State University, Corvallis, Oregon. (oral presentation)
+[23] Weber M., R. Debbout, R. Hill, S. Liebowitz, **D. J. Thornbrugh**, A. Olsen and T. Larsen. Feb. 25, 2016. The Stream Catchment (StreamCat) Dataset. Spatial Data Management group Oregon State University, Corvallis, Oregon. (oral presentation)
 
-[22] Flotemersch J., S. Leibowitz, R. Hill, J. Stoddard, M. Thoms, R. Tharme and **D. Thornbrugh**. August 27, 2015. A Watershed Integrity Definition and Assessment Approach to Support Strategic Management of Watersheds. Bienneal Symposium of the Internation Society for River Science, La Crosse, Wisconsin USA. (oral presentation)
+[22] Flotemersch J., S. Leibowitz, R. Hill, J. Stoddard, M. Thoms, R. Tharme and **D. J. Thornbrugh**. August 27, 2015. A Watershed Integrity Definition and Assessment Approach to Support Strategic Management of Watersheds. Bienneal Symposium of the Internation Society for River Science, La Crosse, Wisconsin USA. (oral presentation)
 
 [21] **Thornbrugh D. J**., S. G. Leibowitz, R. A. Hill, J. E. Flotemersch, M. Weber and J. L. Stoddard. August 20, 2015. Mapping Watershed Integrity for the Conterminous United States. 145th Annual Meeting of American Fisheries Society (AFS) Portland, Oregon USA. (oral presentation)
 
-[20] Hill R., M. Weber, S. Leibowitz, T. Olsen and **D. Thornbrugh**. May 19, 2015. Mapping the biological condition of USA rivers and streams. Annual Meeting for the Society for Freshwater Science, Milwaukee, Wisconsin USA. (poster presentation)
+[20] Hill R., M. Weber, S. Leibowitz, T. Olsen and **D. J. Thornbrugh**. May 19, 2015. Mapping the biological condition of USA rivers and streams. Annual Meeting for the Society for Freshwater Science, Milwaukee, Wisconsin USA. (poster presentation)
 
-[19] Weber M., R. Hill, S. Leibowitz, T. Olsen and **D. Thornbrugh**. March 5, 2015. Creating Flexible Basins and Building Stream-Catchment and Lake-Catchment Datasets. EPA GIS Workgroup lightning talk, US EPA NHEERL Western Ecology Division, Corvallis, OR. (interweb seminar presentation)
+[19] Weber M., R. Hill, S. Leibowitz, T. Olsen and **D. J. Thornbrugh**. March 5, 2015. Creating Flexible Basins and Building Stream-Catchment and Lake-Catchment Datasets. EPA GIS Workgroup lightning talk, US EPA NHEERL Western Ecology Division, Corvallis, OR. (interweb seminar presentation)
 
 [18] **Thornbrugh, D. J.** and D. M. Infante. Dec. 2014. Regional Influences of Landscape Features and Processes on Fluvial Fish Assemblages. USEPA, National Health and Environmental Effects research Laboratory (NHEERL) Western Ecology Division (WED) Science Seminar, Corvallis, Oregon (invited oral presentation)
 
@@ -90,7 +90,7 @@ Rapid City, SD 57701
 
 [15] **Thornbrugh, D. J.**, D. M. Infante, Ashley Moerke and T. O. Brenden. March. 2013. Some like it hot some dont, stream temperatures and Michigans fishes: Identifying management opportunities. Masters seminar series, Institute of Hydrobiology and Aquatic Ecosystem Management, University of Natural Resources and Life Sciences (BOKU), Vienna, Austria. (invited oral presentation)
 
-[14] Krueger, D., D. Infante, K. Wehrly, T. Tsang, W. Daniel, J. Breck, **D. Thornbrugh**, A. Cooper, D. Wieferich, J. Ross, R. Tingley, K. Herreman, A. David. 2012. Landscape ecology principles and practice: An overview of research at Michigan State University and the Institute for Fisheries Research. Shiga University, Otsu, Shiga Prefecture, Japan.
+[14] Krueger, D., D. Infante, K. Wehrly, T. Tsang, W. Daniel, J. Breck, **D. J. Thornbrugh**, A. Cooper, D. Wieferich, J. Ross, R. Tingley, K. Herreman, A. David. 2012. Landscape ecology principles and practice: An overview of research at Michigan State University and the Institute for Fisheries Research. Shiga University, Otsu, Shiga Prefecture, Japan.
 
 [13] **Thornbrugh, D. J.**, D. M. Infante, Ashley Moerke and T. O. Brenden. Dec. 2011. Some like it hot some dont, stream temperatures and Michigans fishes: Identifying management opportunities in the face of environmental changes. Red Cedar Fly Fishers, Okemos, Michigan. (invited oral presentation)
 
@@ -98,7 +98,7 @@ Rapid City, SD 57701
 
 [11] **Thornbrugh, D. J.**, D. M. Infante and T. O. Brenden. Feb. 2011. Effects of temperature on functional relationships among Michigans fluvial fish assemblages. Graduate Student Organization Research Symposium, Michigan State University (MSU), East Lansing, Michigan. (prospective oral presentation)
 
-[10] Esselman, P., D. M. Infante, L. Wang, W. W. Taylor, A. Cooper, R. Tingley, D. Wieferich, J. Fenner, **D. Thornbrugh**, and J. Ross. Sept. 16, 2010. An assessment of fish habitat condition for United States streams and rivers. National Fish Habitat Action Plan Science and Data Committee Meeting, Pittsburgh, Pennsylvania.
+[10] Esselman, P., D. M. Infante, L. Wang, W. W. Taylor, A. Cooper, R. Tingley, D. Wieferich, J. Fenner, **D. J. Thornbrugh**, and J. Ross. Sept. 16, 2010. An assessment of fish habitat condition for United States streams and rivers. National Fish Habitat Action Plan Science and Data Committee Meeting, Pittsburgh, Pennsylvania.
 
 [9] **Thornbrugh, D. J.** and D. M. Infante. Oct. 2009. "Short Snapper", Structure of fish assemblages along environmental gradients. The Partnership for Ecosystem Research and Management (PERM) meeting at Michigan State University (MSU). East Lansing, Michigan. (invited oral presentation)
 
