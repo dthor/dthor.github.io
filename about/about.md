@@ -61,7 +61,7 @@ Rapid City, SD 57701
 -	[Southwestern Association of Naturalists (2006 - 2007)](http://www.biosurvey.ou.edu/swan/)
 -	[Desert Fishes Council (2004-2005)](http://www.desertfishes.org/)
 -	[Colorado River Aquatic Biologists (2004-2005)](http://www.lcrmscp.gov/crab/crab.html)
--	[Colorado River Native Fish Work Group (2004-2005)]
+-	Colorado River Native Fish Work Group (2004-2005)
 
 
 ### PRESENTATIONS 
