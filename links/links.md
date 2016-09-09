@@ -7,13 +7,13 @@ permalink: /links/
 
 ***
 
-### Northern Great Plains Inventory & Monitoring Network 
+### Northern Great Plains Inventory & Monitoring Network (NGPN)
 ***
--   [About this Network] (http://science.nature.nps.gov/im/units/ngpn/about.cfm)
--   [Network Parks] (http://science.nature.nps.gov/im/units/ngpn/parks/index.cfm)
--   [Inventories] (http://science.nature.nps.gov/im/units/ngpn/inventory/index.cfm)
--   Monitoring - [Water Quality] (http://science.nature.nps.gov/im/units/ngpn/monitor/waterquality.cfm)
--   Monitoring - [Aquatic Invertebrates] (http://science.nature.nps.gov/im/units/ngpn/monitor/aquaticinverts.cfm)
+-   NGPN - [About this Network](http://science.nature.nps.gov/im/units/ngpn/about.cfm)
+-   NGPN - [Network Parks](http://science.nature.nps.gov/im/units/ngpn/parks/index.cfm)
+-   NGPN - [Inventories](http://science.nature.nps.gov/im/units/ngpn/inventory/index.cfm)
+-   NGPN - Monitoring - [Water Quality](http://science.nature.nps.gov/im/units/ngpn/monitor/waterquality.cfm)
+-   NGPN - Monitoring - [Aquatic Invertebrates](http://science.nature.nps.gov/im/units/ngpn/monitor/aquaticinverts.cfm)
 
 ### WATERSHED DATABASE - StreamCat Dataset
 ***

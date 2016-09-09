@@ -14,8 +14,9 @@ header: images/dee_santiam_river_clip.JPG
 
 ***
                          
-[Northern Great Plains Inventory & Monitoring Network](http://science.nature.nps.gov/im/units/ngpn/about.cfm)      
-National Park Service     
+[Northern Great Plains Inventory & Monitoring Network](http://science.nature.nps.gov/im/units/ngpn/index.cfm)    
+  
+**National Park Service**     
 231 East St. Joseph Street                    
 Rapid City, SD 57701   
 
