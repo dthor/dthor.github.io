@@ -7,6 +7,14 @@ permalink: /links/
 
 ***
 
+### Northern Great Plains Inventory & Monitoring Network 
+***
+-   [About this Network] (http://science.nature.nps.gov/im/units/ngpn/about.cfm)
+-   [Network Parks] (http://science.nature.nps.gov/im/units/ngpn/parks/index.cfm)
+-   [Inventories] (http://science.nature.nps.gov/im/units/ngpn/inventory/index.cfm)
+-   Monitoring - [Water Quality] (http://science.nature.nps.gov/im/units/ngpn/monitor/waterquality.cfm)
+-   Monitoring - [Aquatic Invertebrates] (http://science.nature.nps.gov/im/units/ngpn/monitor/aquaticinverts.cfm)
+
 ### WATERSHED DATABASE - StreamCat Dataset
 ***
 -	**Citation:** [Hill, Ryan A., Marc H. Weber, Scott G. Leibowitz, Anthony R. Olsen, and **Darren J. Thornbrugh**, 2016. The Stream-Catchment (StreamCat) Dataset: A Database of Watershed Metrics for the Conterminous United States. Journal of the American Water Resources Association (JAWRA) 1-9. DOI: 10.1111/1752-1688.12372.](http://onlinelibrary.wiley.com/doi/10.1111/1752-1688.12372/abstract)

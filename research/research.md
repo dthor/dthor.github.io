@@ -78,3 +78,4 @@ permalink: /research/
 ***
 -	[Ecology of Freshwater Fish](http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1600-0633)
 -	[Transaction of the American Fisheries Society](http://www.tandfonline.com/loi/utaf20)
+-	[North American Journal of Fisheries Management](http://www.tandfonline.com/toc/ujfm20/current)
