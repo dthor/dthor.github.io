@@ -38,3 +38,6 @@ source: C:/Users/DThornbrugh/dthor.github.io
 destination: C:/Users/DThornbrugh/dthor.github.io/_site 
 
 encoding: utf-8
+
+gems:
+  - jekyll-sitemap
