@@ -1,39 +1,20 @@
+---
+---
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url>
-<loc>http://dthor.github.io/blog/2016/08/04/dthor-site-push-up-to-github</loc>
-<lastmod>2016-08-04T00:00:00-06:00</lastmod>
-</url>
-<url>
-<loc>http://dthor.github.io/blog/2015/10/30/dthor-site-launched</loc>
-<lastmod>2015-10-30T00:00:00-06:00</lastmod>
-</url>
-<url>
-<loc>http://dthor.github.io/about/</loc>
-</url>
-<url>
-<loc>http://dthor.github.io/cv/</loc>
-</url>
-<url>
-<loc>http://dthor.github.io/news/</loc>
-</url>
-<url>
-<loc>http://dthor.github.io/</loc>
-</url>
-<url>
-<loc>http://dthor.github.io/links/</loc>
-</url>
-<url>
-<loc>http://dthor.github.io/publications/</loc>
-</url>
-<url>
-<loc>http://dthor.github.io/research/</loc>
-</url>
-<url>
-<loc>http://dthor.github.io/work/</loc>
-</url>
-<url>
-<loc>http://dthor.github.io/googlebb480c3da833821e.html</loc>
-<lastmod>2016-08-15T13:39:29-06:00</lastmod>
-</url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    {% for post in site.posts %}
+    <url>
+        <loc>http://dthor.github.io{{ post.url | remove: 'index.html' }}</loc>
+    </url>
+    {% endfor %}
+
+    {% for page in site.pages %}
+    {% if page.layout != nil %}
+    {% if page.layout != 'feed' %}
+    <url>
+        <loc>http://dthor.github.io{{ page.url | remove: 'index.html' }}</loc>
+    </url>
+    {% endif %}
+    {% endif %}
+    {% endfor %}
 </urlset>
