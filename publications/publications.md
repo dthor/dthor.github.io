@@ -62,4 +62,4 @@ permalink: /publications/
 
 [2]	Lee, J. C., J. D. Schooley, B. R. Kesner, **D. J. Thornbrugh**, and P. C. Marsh. 2005. Dispersal of Radio-Tagged Razorback Suckers Released into the Lower Colorado River. 52 pages
 
-[1]	Schooley, J. D., B. R. Kesner, **D. J. Thornbrugh**, A. P. Karam and P. C. Marsh. 2006. Survival of razorback sucker stocked into the lower Colorado River. Final Project Report, Oct. 2004-Dec. 2005. Agreement number 04FG300034. 76 pages
+[1]	Schooley, J. D., B. R. Kesner, **D. J. Thornbrugh**, A. P. Karam and P. C. Marsh. 2006. Survival of razorback sucker stocked into the lower Colorado River. Arizona State University, Final Project Report, Oct. 2004-Dec. 2005. Agreement number 04FG300034. 76 pages
