@@ -54,10 +54,12 @@ permalink: /publications/
 
 ### TECHNICAL REPORTS 
 *** 
-[4] **Thornbrugh, D. J.** 2013. Developing greater understanding of functional response of stream fishes to natural and anthropogenic landscape gradients across large regions. Marshall Plan Scholarship papers, Austrian Marshall Plan Foundation, University of Natural Resources and Applied Life Sciences (BOKU) Vienna, Austria. [Report](http://www.marshallplan.at/images/papers_scholarship/2013/Applied_Life_Sciences_Vienna_ThornbrughDarren_2013.pdf)
+[5] **Thornbrugh, D. J.** 2013. Developing greater understanding of functional response of stream fishes to natural and anthropogenic landscape gradients across large regions. Marshall Plan Scholarship papers, Austrian Marshall Plan Foundation, University of Natural Resources and Applied Life Sciences (BOKU) Vienna, Austria. [Report](http://www.marshallplan.at/images/papers_scholarship/2013/Applied_Life_Sciences_Vienna_ThornbrughDarren_2013.pdf)
 
-[3] **Thornbrugh, D.**, D. Infante, A. Moerke, T. Brenden and C. Huckings. 2010. Effects of temperature on funtional relationships amoung Michigans fluvial fish assemblages: Identifying management opportunities in the face of environmantal change.  Michigan Department of Natural Resouces (MDNR) report, 230565
+[4] **Thornbrugh, D.**, D. Infante, A. Moerke, T. Brenden and C. Huckings. 2010. Effects of temperature on funtional relationships amoung Michigans fluvial fish assemblages: Identifying management opportunities in the face of environmantal change.  Michigan Department of Natural Resouces (MDNR) report, 230565
 
-[2] Esselman, P. C., D. M. Infante, L. Wang, W. W. Taylor, R. Tingley, J. Fenner, A. Cooper, D. Wieferich, **D. Thornbrugh**, J. Ross. In Review. A landscape assessment of fish habitat conditions in United States rivers and their watersheds. Report by the Assessment Team to the Science and Data Committee and Board of the National Fish Habitat Action Plan.
+[3] Esselman, P. C., D. M. Infante, L. Wang, W. W. Taylor, R. Tingley, J. Fenner, A. Cooper, D. Wieferich, **D. Thornbrugh**, J. Ross. In Review. A landscape assessment of fish habitat conditions in United States rivers and their watersheds. Report by the Assessment Team to the Science and Data Committee and Board of the National Fish Habitat Action Plan.
 
-[1]	Lee, J. C., J. D. Schooley, B. R. Kesner, **D. J. Thornbrugh**, and P. C. Marsh. 2005. Dispersal of Radio-Tagged Razorback Suckers Released into the Lower Colorado River. 52 pages
+[2]	Lee, J. C., J. D. Schooley, B. R. Kesner, **D. J. Thornbrugh**, and P. C. Marsh. 2005. Dispersal of Radio-Tagged Razorback Suckers Released into the Lower Colorado River. 52 pages
+
+[1]	Schooley, J. D., B. R. Kesner, **D. J. Thornbrugh**, A. P. Karam and P. C. Marsh. 2006. Survival of razorback sucker stocked into the lower Colorado River. Final Project Report, Oct. 2004-Dec. 2005. Agreement number 04FG300034. 76 pages
