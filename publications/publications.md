@@ -33,7 +33,7 @@ permalink: /publications/
 
 ### IN PREPARATION 
 ***
-[4] **Thornbrugh, D. J.**, S. G. Leibowitz, R. A. Hill, M. H. Weber, A. R. Olsen, J. L. Stoddard, and J. E. Flotemersch. _In Preparation_. Mapping Watershed Integrity for the Conterminous United States. Ecological Applications.
+[4] **Thornbrugh, D. J.**, S. G. Leibowitz, R. A. Hill, M. H. Weber, A. R. Olsen, J. E. Flotemersch, J. L. Stoddard and D. V Peck. _In Preparation_. Mapping Watershed Integrity for the Conterminous United States. Ecological Indicators.
 
 [3] **Thornbrugh, D. J.**, D. M. Infante and Y. Tsang. _In Preparation_. Regional trends of biodiversity indices: natural landscape and human land use controls on stream fish assemblages. Diversity and Distributions.
 
