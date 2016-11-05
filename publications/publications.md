@@ -33,7 +33,13 @@ permalink: /publications/
 
 ### IN PREPARATION 
 ***
-[4] **Thornbrugh, D. J.**, S. G. Leibowitz, R. A. Hill, M. H. Weber, A. R. Olsen, J. E. Flotemersch, J. L. Stoddard and D. V Peck. _In Preparation_. Mapping Watershed Integrity for the Conterminous United States. Ecological Indicators.
+[7] Fox, E. W., R. A. Hill, S. G. Leibowitz, A. R. Olsen, **D. J. Thornbrugh** and M. H. Weber _In Review_. Assessing the accuracy and stability of variable selection methods for random forest modeling in ecology. Ecological Applications.
+
+[6] Hill, R. A., E. W. Fox, S. G. Leibowitz, A. R. Olsen, **D. J. Thornbrugh** and M. H. Weber _In Review_. Predictive Mapping of the Biotic Condition of Conterminous-USA Rivers and Streams. Ecological Applications.
+
+[5] **Thornbrugh, D. J.**, S. G. Leibowitz, R. A. Hill, M. H. Weber, A. R. Olsen, J. E. Flotemersch, J. L. Stoddard and D. V Peck. _In Review_. Mapping Watershed Integrity for the Conterminous United States. Ecological Indicators.
+
+[4] Bellmore, R. A., J. E. Compton, J. R. Brooks, E. W. Fox, R. A. Hill and **D. J. Thornbrugh** _In Review_. Relative importance of anthropogenic sources and internal sinks for nitrogen concentration in US national streams and rivers. Proceedings of the National Academy of Sciences.
 
 [3] **Thornbrugh, D. J.**, D. M. Infante and Y. Tsang. _In Preparation_. Regional trends of biodiversity indices: natural landscape and human land use controls on stream fish assemblages. Diversity and Distributions.
 
