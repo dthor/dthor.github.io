@@ -10,19 +10,21 @@ permalink: /publications/
 ### PUBLICATIONS - In Press
 ***
 
-[10] Tsang, Y., D. M. Infante, J. Stewart, L. Wang, R. Tingly III, **D. Thornbrugh**. 2016. StreamThermal1.0: A software package for calculating thermal metrics from stream temperature data. Fisheries, 41:9, 548-554.
+[11] Tsang, Y., D. M. Infante, J. Stewart, L. Wang, R. Tingly III, **D. Thornbrugh**. 2016. StreamThermal1.0: A software package for calculating thermal metrics from stream temperature data. Fisheries, 41:9, 548-554.
 
-[9] Hill, R. A., M. H. Weber, S. G. Leibowitz, A. R. Olsen, and **D. J. Thornbrugh**. 2016. The Stream-Catchment (StreamCat) Dataset: A database of watershed metrics for the conterminous USA. Journal of the American Water Resources Association. [DOI: 10.1111/1752-1688.12372.](http://onlinelibrary.wiley.com/doi/10.1111/1752-1688.12372/abstract)
+[10] Hill, R. A., M. H. Weber, S. G. Leibowitz, A. R. Olsen, and **D. J. Thornbrugh**. 2016. The Stream-Catchment (StreamCat) Dataset: A database of watershed metrics for the conterminous USA. Journal of the American Water Resources Association. [DOI: 10.1111/1752-1688.12372.](http://onlinelibrary.wiley.com/doi/10.1111/1752-1688.12372/abstract)
 
-[8] **Thornbrugh, D. J.** 2014. Regional Influences of Landscape Features and Processes on Fluvial Fish Assemblages. Doctoral dissertation, Department of Fisheries and Wildlife, Michigan State University, East Lansing, MI, ProQuest.[Thesis](http://etd.lib.msu.edu/islandora/object/etd%3A2967)
+[9] **Thornbrugh, D. J.** 2014. Regional Influences of Landscape Features and Processes on Fluvial Fish Assemblages. Doctoral dissertation, Department of Fisheries and Wildlife, Michigan State University, East Lansing, MI, ProQuest.[Thesis](http://etd.lib.msu.edu/islandora/object/etd%3A2967)
 
-[7] Esselman, P. C., D. M. Infante, L. Wang, A. Cooper, D. Wieferich, Y. Tsang, **D. Thornbrugh**, and W. W. Taylor. 2013. Regional fish community indicators of landscape disturbance to catchments of the conterminous United States. Ecological Indicators 26:163-173.
+[8] Esselman, P. C., D. M. Infante, L. Wang, A. Cooper, D. Wieferich, Y. Tsang, **D. Thornbrugh**, and W. W. Taylor. 2013. Regional fish community indicators of landscape disturbance to catchments of the conterminous United States. Ecological Indicators 26:163-173.
 
-[6] **Thornbrugh, D. J.** and K. B. Gido. 2010. Influence of spatial positioning within stream networks on fish assemblage structure in the Kansas River basin, USA. Canadian Journal of Fisheries and Aquatic Sciences 67(1): 143-156, Erratum 67(3): 596. [abstract](http://www.nrcresearchpress.com/doi/abs/10.1139/F09-169#.V7IzCfkrJhE)
+[7] **Thornbrugh, D. J.** and K. B. Gido. 2010. Influence of spatial positioning within stream networks on fish assemblage structure in the Kansas River basin, USA. Canadian Journal of Fisheries and Aquatic Sciences 67(1): 143-156, Erratum 67(3): 596. [abstract](http://www.nrcresearchpress.com/doi/abs/10.1139/F09-169#.V7IzCfkrJhE)
 
-[5] Dodds, W. K., Wes W. Bouska, J. L. Etizmann, T. J. Pilger, K. L. Pitts, A. J. Riley, J.T. Schloesser, **D. J. Thornbrugh**. 2009. Eutrophication of the U.S. Freshwaters: Analysis of Potential Economic Damages. Environmental Science and Technology 43:12-19.
+[6] Dodds, W. K., Wes W. Bouska, J. L. Etizmann, T. J. Pilger, K. L. Pitts, A. J. Riley, J.T. Schloesser, **D. J. Thornbrugh**. 2009. Eutrophication of the U.S. Freshwaters: Analysis of Potential Economic Damages. Environmental Science and Technology 43:12-19.
 
-[4] Paukert, C. P., J. Schloesser, J. Eitzmann, J. Fischer, K. Pitts, and **D. Thornbrugh**. 2008.  Effect of Instream Sand Dredging on Fish Communities in the Kansas River USA:  Current and Historical Perspectives.  Journal of Freshwater Ecology 23:623-633.
+[5] Paukert, C. P., J. Schloesser, J. Eitzmann, J. Fischer, K. Pitts, and **D. Thornbrugh**. 2008.  Effect of Instream Sand Dredging on Fish Communities in the Kansas River USA: Current and Historical Perspectives. Journal of Freshwater Ecology 23:623-633.
+
+[4] **Thornbrugh, D. J.** 2008. Influence of stream connectance and network spatial position on fish assemblage structure in the Kansas River basin, USA, USA. Master thesis, Division of Biology, Kansas State University, Manhattan, KS, K-REx.[Thesis](http://krex.k-state.edu/dspace/handle/2097/535)
 
 [3] Schooley, J. D., A. P. Karam, B. R. Kesner, P. C. Marsh, C. A. Pacey, and **D. J. Thornbrugh**. 2008. Detection of Larval Remains after Consumption by Fishes. Transactions of the American Fisheries Society 137: 1044-1049.
 
@@ -33,11 +35,12 @@ permalink: /publications/
 
 ### IN PREPARATION 
 ***
-[7] Fox, E. W., R. A. Hill, S. G. Leibowitz, A. R. Olsen, **D. J. Thornbrugh** and M. H. Weber _In Review_. Assessing the accuracy and stability of variable selection methods for random forest modeling in ecology. Ecological Applications.
 
-[6] Hill, R. A., E. W. Fox, S. G. Leibowitz, A. R. Olsen, **D. J. Thornbrugh** and M. H. Weber _In Review_. Predictive Mapping of the Biotic Condition of Conterminous-USA Rivers and Streams. Ecological Applications.
+[7] **Thornbrugh, D. J.**, S. G. Leibowitz, R. A. Hill, M. H. Weber, A. R. Olsen, J. E. Flotemersch, J. L. Stoddard and D. V Peck. _In Review_. Mapping Watershed Integrity for the Conterminous United States. Ecological Indicators.
 
-[5] **Thornbrugh, D. J.**, S. G. Leibowitz, R. A. Hill, M. H. Weber, A. R. Olsen, J. E. Flotemersch, J. L. Stoddard and D. V Peck. _In Review_. Mapping Watershed Integrity for the Conterminous United States. Ecological Indicators.
+[6] Fox, E. W., R. A. Hill, S. G. Leibowitz, A. R. Olsen, **D. J. Thornbrugh** and M. H. Weber _In Review_. Assessing the accuracy and stability of variable selection methods for random forest modeling in ecology. Ecological Applications.
+
+[5] Hill, R. A., E. W. Fox, S. G. Leibowitz, A. R. Olsen, **D. J. Thornbrugh** and M. H. Weber _In Review_. Predictive Mapping of the Biotic Condition of Conterminous-USA Rivers and Streams. Ecological Applications.
 
 [4] Bellmore, R. A., J. E. Compton, J. R. Brooks, E. W. Fox, R. A. Hill and **D. J. Thornbrugh** _In Review_. Relative importance of anthropogenic sources and internal sinks for nitrogen concentration in US national streams and rivers. Proceedings of the National Academy of Sciences.
 
