@@ -24,7 +24,7 @@ permalink: /publications/
 
 [5] Paukert, C. P., J. Schloesser, J. Eitzmann, J. Fischer, K. Pitts, and **D. Thornbrugh**. 2008.  Effect of Instream Sand Dredging on Fish Communities in the Kansas River USA: Current and Historical Perspectives. Journal of Freshwater Ecology 23:623-633.
 
-[4] **Thornbrugh, D. J.** 2008. Influence of stream connectance and network spatial position on fish assemblage structure in the Kansas River basin, USA, USA. Master thesis, Division of Biology, Kansas State University, Manhattan, KS, K-REx.[Thesis](http://krex.k-state.edu/dspace/handle/2097/535)
+[4] **Thornbrugh, D. J.** 2008. Influence of stream connectance and network spatial position on fish assemblage structure in the Kansas River basin, USA. Master thesis, Division of Biology, Kansas State University, Manhattan, KS, K-REx.[Thesis](http://krex.k-state.edu/dspace/handle/2097/535)
 
 [3] Schooley, J. D., A. P. Karam, B. R. Kesner, P. C. Marsh, C. A. Pacey, and **D. J. Thornbrugh**. 2008. Detection of Larval Remains after Consumption by Fishes. Transactions of the American Fisheries Society 137: 1044-1049.
 
@@ -57,6 +57,7 @@ permalink: /publications/
 -   StreamCat Dataset - [Welcome](ftp://newftp.epa.gov/EPADataCommons/ORD/NHDPlusLandscapeAttributes/StreamCat/WelcomePage.html)
 -	StreamCat Dataset - [Data by HydroRegion](ftp://newftp.epa.gov/EPADataCommons/ORD/NHDPlusLandscapeAttributes/StreamCat/HydroRegions/)
 -	StreamCat Dataset - [Data by State](ftp://newftp.epa.gov/EPADataCommons/ORD/NHDPlusLandscapeAttributes/StreamCat/States/)
+-	StreamCat Dataset - [Variable List - Quick Reference](ftp://newftp.epa.gov/EPADataCommons/ORD/NHDPlusLandscapeAttributes/StreamCat/Documentation/VariableList-QuickReference.html)
 -	StreamCat Dataset - [Data Dictionary](ftp://newftp.epa.gov/EPADataCommons/ORD/NHDPlusLandscapeAttributes/StreamCat/Documentation/DataDictionary.html)
 -	StreamCat Dataset - [Github](https://github.com/USEPA/StreamCat)
 -	Associated dataset - [National Hydrography Dataset Version 2 (NHDPlusV2)](http://www.horizon-systems.com/nhdplus/NHDplusV2_home.php)
