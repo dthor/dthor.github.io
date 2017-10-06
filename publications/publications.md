@@ -18,9 +18,9 @@ permalink: /publications/
 ### PUBLICATIONS - In Press
 ***
 
-[13] Hill, R. A., E. W. Fox, S. G. Leibowitz, A. R. Olsen, **D. J. Thornbrugh** and M. H. Weber. 2017. Predictive Mapping of the Biotic Condition of Conterminous-USA Rivers and Streams. Ecological Applications. [doi:10.1002/eap.1617] (http://onlinelibrary.wiley.com/doi/10.1002/eap.1617/abstract)
+[13] Hill, R. A., E. W. Fox, S. G. Leibowitz, A. R. Olsen, **D. J. Thornbrugh** and M. H. Weber. 2017. Predictive Mapping of the Biotic Condition of Conterminous-USA Rivers and Streams. Ecological Applications. [DOI: 10.1002/eap.1617](http://onlinelibrary.wiley.com/doi/10.1002/eap.1617/abstract)
 
-[12] Fox, E. W., R. A. Hill, S. G. Leibowitz, A. R. Olsen, **D. J. Thornbrugh** and M. H. Weber. 2017. Assessing the accuracy and stability of variable selection methods for random forest modeling in ecology. Environmental Monitoring and Assessment. 189(7):316. [doi.org/10.1007/s10661-017-6025-0] (https://doi.org/10.1007/s10661-017-6025-0)
+[12] Fox, E. W., R. A. Hill, S. G. Leibowitz, A. R. Olsen, **D. J. Thornbrugh** and M. H. Weber. 2017. Assessing the accuracy and stability of variable selection methods for random forest modeling in ecology. Environmental Monitoring and Assessment. 189(7):316. [DOI: 10.1007/s10661.017.6025.0](https://doi.org/10.1007/s10661-017-6025-0)
 
 [11] Tsang, Y., D. M. Infante, J. Stewart, L. Wang, R. Tingly III, **D. J. Thornbrugh**. 2016. StreamThermal1.0: A software package for calculating thermal metrics from stream temperature data. Fisheries, 41:9, 548-554. [DOI: 10.1080/03632415.2016.1210517](http://afs.tandfonline.com/doi/abs/10.1080/03632415.2016.1210517)
 
