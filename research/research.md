@@ -24,7 +24,7 @@ permalink: /research/
 ### RESEARCH FOCUS  
 ***
  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My research efforts focus on identifying and quantifying spatial patterns in the distribution in freshwater fish and macroinvertebrate communities, the natural landscape and anthropogenic processes that influence these patterns, how they change over time, and how to apply this knowledge to manage freshwater resources, preserve water quality and conserve biodiversity. Freshwater ecosystems are heterogeneous environments in which animals live that are ever changing in response to disturbances in the landscape, knowledge of how the disturbances influence aquatic communities is essential in order to predict and responsibly manage aquatic resources. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;My research efforts focus on identifying and quantifying spatial patterns in the distribution in freshwater fish and macroinvertebrate communities, the natural landscape and anthropogenic processes that influence these patterns, how they change over time, and how to apply this knowledge to manage freshwater resources, preserve water quality and conserve biodiversity. Freshwater ecosystems are heterogeneous environments in which animals live, that are ever changing in response to disturbances in the landscape, knowledge of how the disturbances influence aquatic communities is essential in order to predict and responsibly manage aquatic resources. 
 
 ### RESEARCH INTERESTS
 - - - -
@@ -32,6 +32,7 @@ permalink: /research/
 -   Watershed Integrity/Health/Resources
 -   Community Assembly Theory
 -	Trait-Based Ecology and Biological Assessment
+-	Fish/Macroinvertebrate Ecology
 -	Native Fish Species Conservation
 -	Native/Introduced Fish Species Interactions
 -	Whole Stream/River Ecology
@@ -52,7 +53,6 @@ permalink: /research/
 -   StreamCat Dataset - [Welcome](ftp://newftp.epa.gov/EPADataCommons/ORD/NHDPlusLandscapeAttributes/StreamCat/WelcomePage.html)
 -	StreamCat Dataset - [Data by HydroRegion](ftp://newftp.epa.gov/EPADataCommons/ORD/NHDPlusLandscapeAttributes/StreamCat/HydroRegions/)
 -	StreamCat Dataset - [Data by State](ftp://newftp.epa.gov/EPADataCommons/ORD/NHDPlusLandscapeAttributes/StreamCat/States/)
--	StreamCat Dataset - [Variable List - Quick Reference](ftp://newftp.epa.gov/EPADataCommons/ORD/NHDPlusLandscapeAttributes/StreamCat/Documentation/VariableList-QuickReference.html)
 -	StreamCat Dataset - [Data Dictionary](ftp://newftp.epa.gov/EPADataCommons/ORD/NHDPlusLandscapeAttributes/StreamCat/Documentation/DataDictionary.html)
 -	StreamCat Dataset - [Github](https://github.com/USEPA/StreamCat)
 -	Associated dataset - [National Hydrography Dataset Version 2 (NHDPlusV2)](http://www.horizon-systems.com/nhdplus/NHDplusV2_home.php)
@@ -77,6 +77,7 @@ permalink: /research/
 
 ### MANUSCRIPT REVIEWER 
 ***
+-	[Aquatic Ecology](https://link.springer.com/journal/10452)
 -	[Ecology of Freshwater Fish](http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1600-0633)
 -	[Transaction of the American Fisheries Society](http://www.tandfonline.com/loi/utaf20)
 -	[North American Journal of Fisheries Management](http://www.tandfonline.com/toc/ujfm20/current)

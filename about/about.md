@@ -26,6 +26,7 @@ Rapid City, SD 57701
 -   Watershed Integrity/Health/Resources
 -   Community Assembly Theory
 -	Trait-Based Ecology and Biological Assessment
+-	Fish/Macroinvertebrate Ecology
 -	Native Fish Species Conservation
 -	Native/Introduced Fish Species Interactions
 -	Whole Stream/River Ecology
@@ -67,6 +68,12 @@ Rapid City, SD 57701
 
 ### PRESENTATIONS 
 ***
+[29] Thornbrugh D. and D. Bender. March 16, 2017. Protocol Implementation Plan for Stream and River Channel Characteristics Monitoring in the Northern Great Plains Network, Monitoring Change in the Physical Habitat of Streams and Rivers. Northern Great Plains Technical Committee and Board of Directors Meeting. (oral presentation)
+
+[28] **Thornbrugh D. J.** March 15, 2017. Water Quality Monitoring Update for Wadeable Streams and Rivers in the Northern Great Plains Network. Northern Great Plains Technical Committee and Board of Directors Meeting. (oral presentation)
+
+[27] **Thornbrugh D. J.** May 24, 2017. Aquatic Ecologist Northern Great Plains Inventory & Monitoring Division: NPS Fundamentals Training, Spotlight Session. (invited oral presentation)
+
 [26] **Thornbrugh D. J.**, S. Leibowitz, R. Hill, M. Weber, J. Stoddard and J. Flotemersch. May 24, 2016. Mapping Watershed Integrity for the Conterminous United States. Annual Meeting for Society of Freshwater Science (SFS) in Sacramento, California USA. (oral presentation)
 
 [25] Hill R., S. Leibowitz, A. Olsen, **D. J. Thornbrugh**, E. Fox and M. Weber. August 27, 2015. Variable Selection with Random Forest: Balancing Stability, Performance, and Interpretation in Ecological and Environmental Modeling. Annual Meeting for Society of Freshwater Science (SFS) in Sacramento, California USA. (oral presentation)
@@ -89,11 +96,11 @@ Rapid City, SD 57701
 
 [16] **Thornbrugh, D. J.** and D. M. Infante. 2014. Landscape effects on fluvial fish assemblage structure: region-specific response to anthropogenic stressors. Society of Freshwater Science, Joint Aquatic Sciences Meeting, Portland, Oregon (oral presentation)
 
-[15] **Thornbrugh, D. J.**, D. M. Infante, Ashley Moerke and T. O. Brenden. March. 2013. Some like it hot some dont, stream temperatures and Michigans fishes: Identifying management opportunities. Masters seminar series, Institute of Hydrobiology and Aquatic Ecosystem Management, University of Natural Resources and Life Sciences (BOKU), Vienna, Austria. (invited oral presentation)
+[15] **Thornbrugh, D. J.**, D. M. Infante, Ashley Moerke and T. O. Brenden. March. 2013. Some like it hot some don't, stream temperatures and Michigans fishes: Identifying management opportunities. Masters seminar series, Institute of Hydrobiology and Aquatic Ecosystem Management, University of Natural Resources and Life Sciences (BOKU), Vienna, Austria. (invited oral presentation)
 
 [14] Krueger, D., D. Infante, K. Wehrly, T. Tsang, W. Daniel, J. Breck, **D. J. Thornbrugh**, A. Cooper, D. Wieferich, J. Ross, R. Tingley, K. Herreman, A. David. 2012. Landscape ecology principles and practice: An overview of research at Michigan State University and the Institute for Fisheries Research. Shiga University, Otsu, Shiga Prefecture, Japan.
 
-[13] **Thornbrugh, D. J.**, D. M. Infante, Ashley Moerke and T. O. Brenden. Dec. 2011. Some like it hot some dont, stream temperatures and Michigans fishes: Identifying management opportunities in the face of environmental changes. Red Cedar Fly Fishers, Okemos, Michigan. (invited oral presentation)
+[13] **Thornbrugh, D. J.**, D. M. Infante, Ashley Moerke and T. O. Brenden. Dec. 2011. Some like it hot some don't, stream temperatures and Michigans fishes: Identifying management opportunities in the face of environmental changes. Red Cedar Fly Fishers, Okemos, Michigan. (invited oral presentation)
 
 [12] **Thornbrugh, D. J.**, D. M. Infante, Lizhu Wang, Ashley Moerke and T. O. Brenden. Sept. 2011. Effects of temperature on relationships among Michigans fluvial fish assemblages: Identifying management opportunities in the face of environmental changes. National American Fisheries Society Meeting, Seattle, Washington. (oral presentation)
 
@@ -115,6 +122,6 @@ Rapid City, SD 57701
 
 [3] **Thornbrugh, D. J.** and K. B. Gido. October 2006. Fish Community Dynamics in a Great Plains Riverscape. Great Plains Limnology Conference. Manhattan, KS. (oral presentation)
 
-[2] Gido, K. B., J. Schaefer, J. Falke, **D. J. Thornbrugh**, T. Strakosh. April 2006. Assembling fish communities in reservoirs. Southwestern Association of Naturalists.
+[2] Gido, K. B., J. Schaefer, J. Falke, **D. J. Thornbrugh**, T. Strakosh. April 2006. Assembling fish communities in reservoirs. Southwestern Association of Naturalists. Colima, Mexico
 
 [1] Gido, K. B., **D. J. Thornbrugh**, B. Oakes, J. Falke, L. Knight. January 2006. Development of aquatic GAP in Kansas. Kansas Chapter of the American Fisheries Society. (poster)

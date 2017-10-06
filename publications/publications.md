@@ -9,23 +9,24 @@ permalink: /publications/
 
 ### IN REVIEW
 ***
+[3] **Thornbrugh, D. J.**, D. M. Infante and Y. Tsang. _In Review_. Regional trends of biodiversity indices: differences in natural landscape and human land use on stream fishes. Journal of Biogeography.
 
-[4] **Thornbrugh, D. J.**, S. G. Leibowitz, R. A. Hill, M. H. Weber, A. R. Olsen, J. E. Flotemersch, J. L. Stoddard and D. V Peck. _In Review_. Mapping Watershed Integrity for the Conterminous United States. Ecological Indicators.
-
-[3] Fox, E. W., R. A. Hill, S. G. Leibowitz, A. R. Olsen, **D. J. Thornbrugh** and M. H. Weber _In Review_. Assessing the accuracy and stability of variable selection methods for random forest modeling in ecology. Ecological Applications.
-
-[2] Hill, R. A., E. W. Fox, S. G. Leibowitz, A. R. Olsen, **D. J. Thornbrugh** and M. H. Weber _In Review_. Predictive Mapping of the Biotic Condition of Conterminous-USA Rivers and Streams. Ecological Applications.
+[2] **Thornbrugh, D. J.**, S. G. Leibowitz, R. A. Hill, M. H. Weber, A. R. Olsen, J. E. Flotemersch, J. L. Stoddard and D. V Peck. _In Review_. Mapping Watershed Integrity for the Conterminous United States. Ecological Indicators.
 
 [1] Bellmore, R. A., J. E. Compton, J. R. Brooks, E. W. Fox, R. A. Hill and **D. J. Thornbrugh** _In Review_. Relative importance of anthropogenic sources and internal sinks for nitrogen concentration in US national streams and rivers. Proceedings of the National Academy of Sciences.
 
 ### PUBLICATIONS - In Press
 ***
 
-[11] Tsang, Y., D. M. Infante, J. Stewart, L. Wang, R. Tingly III, **D. J. Thornbrugh**. 2016. StreamThermal1.0: A software package for calculating thermal metrics from stream temperature data. Fisheries, 41:9, 548-554.
+[13] Hill, R. A., E. W. Fox, S. G. Leibowitz, A. R. Olsen, **D. J. Thornbrugh** and M. H. Weber. 2017. Predictive Mapping of the Biotic Condition of Conterminous-USA Rivers and Streams. Ecological Applications. [doi:10.1002/eap.1617] (http://onlinelibrary.wiley.com/doi/10.1002/eap.1617/abstract)
 
-[10] Hill, R. A., M. H. Weber, S. G. Leibowitz, A. R. Olsen, and **D. J. Thornbrugh**. 2016. The Stream-Catchment (StreamCat) Dataset: A database of watershed metrics for the conterminous USA. Journal of the American Water Resources Association. [DOI: 10.1111/1752-1688.12372.](http://onlinelibrary.wiley.com/doi/10.1111/1752-1688.12372/abstract)
+[12] Fox, E. W., R. A. Hill, S. G. Leibowitz, A. R. Olsen, **D. J. Thornbrugh** and M. H. Weber. 2017. Assessing the accuracy and stability of variable selection methods for random forest modeling in ecology. Environmental Monitoring and Assessment. 189(7):316. [doi.org/10.1007/s10661-017-6025-0] (https://doi.org/10.1007/s10661-017-6025-0)
 
-[9] **Thornbrugh, D. J.** 2014. Regional Influences of Landscape Features and Processes on Fluvial Fish Assemblages. Doctoral dissertation, Department of Fisheries and Wildlife, Michigan State University, East Lansing, MI, ProQuest.[Thesis](http://etd.lib.msu.edu/islandora/object/etd%3A2967)
+[11] Tsang, Y., D. M. Infante, J. Stewart, L. Wang, R. Tingly III, **D. J. Thornbrugh**. 2016. StreamThermal1.0: A software package for calculating thermal metrics from stream temperature data. Fisheries, 41:9, 548-554. [DOI: 10.1080/03632415.2016.1210517](http://afs.tandfonline.com/doi/abs/10.1080/03632415.2016.1210517)
+
+[10] Hill, R. A., M. H. Weber, S. G. Leibowitz, A. R. Olsen, and **D. J. Thornbrugh**. 2016. The Stream-Catchment (StreamCat) Dataset: A database of watershed metrics for the conterminous USA. Journal of the American Water Resources Association,52(1):120-128. [DOI: 10.1111/1752-1688.12372.](http://onlinelibrary.wiley.com/doi/10.1111/1752-1688.12372/abstract)
+
+[9] **Thornbrugh, D. J.** 2014. Regional Influences of Landscape Features and Processes on Fluvial Fish Assemblages. Doctoral dissertation, Department of Fisheries and Wildlife, Michigan State University, East Lansing, MI, ProQuest. [Thesis](http://etd.lib.msu.edu/islandora/object/etd%3A2967)
 
 [8] Esselman, P. C., D. M. Infante, L. Wang, A. Cooper, D. Wieferich, Y. Tsang, **D. Thornbrugh**, and W. W. Taylor. 2013. Regional fish community indicators of landscape disturbance to catchments of the conterminous United States. Ecological Indicators 26:163-173.
 
@@ -46,8 +47,6 @@ permalink: /publications/
 
 ### IN PREPARATION 
 ***
-
-[3] **Thornbrugh, D. J.**, D. M. Infante and Y. Tsang. _In Preparation_. Regional trends of biodiversity indices: natural landscape and human land use controls on stream fish assemblages. Diversity and Distributions.
 
 [2] **Thornbrugh, D. J.**, and D. M. Infante. _In Preparation_. Landscape effects on fluvial fish assemblage structure: region-specific response to human land uses. Ecological Application.
 

@@ -44,3 +44,21 @@ permalink: /work/
 - **Laboratory Technician I** (June 1999 - Aug. 2000), Department of Environmental Quality, Surface Water Division, State of Nebraska. Lincoln, NE
 
 - **Horticulture Assistant** (March 1999 - June 1999), Campbells Nurseries and Garden Center Inc. Lincoln, NE
+
+***
+
+### TRAININGS
+
+*** 
+
+-	NPS Fundamentals
+
+-	Federal Retirement Training
+
+-	Developing SQL Queries for SQL Server training (Learning Tree)
+
+-	Modeling Principles for Natural Resources Management (FWS NCTC online)
+
+-	Wilderness First Aid
+
+-	NPS Operational Leadership.	
