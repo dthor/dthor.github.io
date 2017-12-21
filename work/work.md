@@ -11,7 +11,7 @@ permalink: /work/
 
 *** 
 
-- **Aquatic Ecologist** (May 2016 - present	) Northern Great Plains Inventory & Monitoring Network, National Park Service, Rapid City, SD
+- **Aquatic Ecologist** (May 2016 - present) Northern Great Plains Inventory & Monitoring Network, National Park Service, Rapid City, SD
 
 - **Post-Doctoral Research Fellow** (Dec. 2014 - May 2016) w/ Oak Ridge Institute for Science and Education (ORISE), at U.S. Environmental Protection Agency (EPA) National Health and Environmental Effects research Laboratory (NHEERL), Western Ecology Division (WED), Freshwater Ecology Branch (FEB), Corvallis, OR	
 	
@@ -50,15 +50,10 @@ permalink: /work/
 ### TRAININGS
 
 *** 
-
+-	AQUARIUS Time-Series Water Data Management Software 
 -	NPS Fundamentals
-
 -	Federal Retirement Training
-
 -	Developing SQL Queries for SQL Server training (Learning Tree)
-
 -	Modeling Principles for Natural Resources Management (FWS NCTC online)
-
 -	Wilderness First Aid
-
 -	NPS Operational Leadership.	

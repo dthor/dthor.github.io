@@ -9,14 +9,14 @@ permalink: /publications/
 
 ### IN REVIEW
 ***
-[3] **Thornbrugh, D. J.**, D. M. Infante and Y. Tsang. _In Review_. Regional trends of biodiversity indices: differences in natural landscape and human land use on stream fishes. Journal of Biogeography.
-
-[2] **Thornbrugh, D. J.**, S. G. Leibowitz, R. A. Hill, M. H. Weber, A. R. Olsen, J. E. Flotemersch, J. L. Stoddard and D. V Peck. _In Review_. Mapping Watershed Integrity for the Conterminous United States. Ecological Indicators.
+[2] **Thornbrugh, D. J.**, D. M. Infante and Y. Tsang. _In Review_. Regional trends of biodiversity indices: differences in natural landscape and human land use on stream fishes. Journal of Biogeography.
 
 [1] Bellmore, R. A., J. E. Compton, J. R. Brooks, E. W. Fox, R. A. Hill and **D. J. Thornbrugh** _In Review_. Relative importance of anthropogenic sources and internal sinks for nitrogen concentration in US national streams and rivers. Proceedings of the National Academy of Sciences.
 
 ### PUBLICATIONS - In Press
 ***
+
+[14] **Thornbrugh, D. J.**, S. G. Leibowitz, R. A. Hill, M. H. Weber, Z. C. Johnson A. R. Olsen, J. E. Flotemersch, J. L. Stoddard and D. V Peck. 2018. Mapping Watershed Integrity for the Conterminous United States. Ecological Indicators. 85:1133-1148 [doi.org/10.1016/j.ecolind.2017.10.070](https://doi.org/10.1016/j.ecolind.2017.10.070)
 
 [13] Hill, R. A., E. W. Fox, S. G. Leibowitz, A. R. Olsen, **D. J. Thornbrugh** and M. H. Weber. 2017. Predictive Mapping of the Biotic Condition of Conterminous-USA Rivers and Streams. Ecological Applications. [DOI: 10.1002/eap.1617](http://onlinelibrary.wiley.com/doi/10.1002/eap.1617/abstract)
 
