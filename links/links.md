@@ -27,6 +27,10 @@ permalink: /links/
 -	StreamCat Dataset - [Github](https://github.com/USEPA/StreamCat)
 -	Associated dataset - [National Hydrography Dataset Version 2 (NHDPlusV2)](http://www.horizon-systems.com/nhdplus/NHDplusV2_home.php)
 
+-	**Citation:** **Thornbrugh, D. J.**, S. G. Leibowitz, R. A. Hill, M. H. Weber, Z. C. Johnson A. R. Olsen, J. E. Flotemersch, J. L. Stoddard and D. V Peck. 2018. Mapping Watershed Integrity for the Conterminous United States. Ecological Indicators. 85:1133-1148 [doi.org/10.1016/j.ecolind.2017.10.070](https://doi.org/10.1016/j.ecolind.2017.10.070)
+-	StreamCat Dataset - [National Index of Watershed Integrity & Index of Catchment Integrity by HydroRegion - ICI_IWI_Regions](ftp://newftp.epa.gov/EPADataCommons/ORD/NHDPlusLandscapeAttributes/StreamCat/HydroRegions/)
+-	StreamCat Dataset - [National Index of Watershed Integrity & Index of Catchment Integrity by State - ICI_IWI_State](ftp://newftp.epa.gov/EPADataCommons/ORD/NHDPlusLandscapeAttributes/StreamCat/States/)
+
 ### PROFESSIONAL SOCIETY AFFILIATIONS 
 ***
 -	[Society of Freshwater Science (2014 - present)](https://www.freshwater-science.org/)
