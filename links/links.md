@@ -19,7 +19,7 @@ permalink: /links/
 ***
 -	**Citation:** [Hill, Ryan A., Marc H. Weber, Scott G. Leibowitz, Anthony R. Olsen, and **Darren J. Thornbrugh**, 2016. The Stream-Catchment (StreamCat) Dataset: A Database of Watershed Metrics for the Conterminous United States. Journal of the American Water Resources Association (JAWRA) 1-9. DOI: 10.1111/1752-1688.12372.](http://onlinelibrary.wiley.com/doi/10.1111/1752-1688.12372/abstract)
 
--	Associated dataset - [National Hydrography Dataset Version 2 (NHDPlusV2)](http://www.horizon-systems.com/nhdplus/NHDplusV2_home.php)
+
 -   StreamCat Dataset - [StreamCat](https://www.epa.gov/national-aquatic-resource-surveys/streamcat)
 -   StreamCat Dataset - [Welcome](ftp://newftp.epa.gov/EPADataCommons/ORD/NHDPlusLandscapeAttributes/StreamCat/WelcomePage.html)
 -	StreamCat Dataset - [Data by HydroRegion](ftp://newftp.epa.gov/EPADataCommons/ORD/NHDPlusLandscapeAttributes/StreamCat/HydroRegions/)
@@ -27,8 +27,9 @@ permalink: /links/
 -	StreamCat Dataset - [Variable List - Quick Reference](ftp://newftp.epa.gov/EPADataCommons/ORD/NHDPlusLandscapeAttributes/StreamCat/Documentation/VariableList-QuickReference.html)
 -	StreamCat Dataset - [Data Dictionary](ftp://newftp.epa.gov/EPADataCommons/ORD/NHDPlusLandscapeAttributes/StreamCat/Documentation/DataDictionary.html)
 -	StreamCat Dataset - [Github](https://github.com/USEPA/StreamCat)
-
--	**Citation:** **Thornbrugh, D. J.**, S. G. Leibowitz, R. A. Hill, M. H. Weber, Z. C. Johnson A. R. Olsen, J. E. Flotemersch, J. L. Stoddard and D. V Peck. 2018. Mapping Watershed Integrity for the Conterminous United States. Ecological Indicators. 85:1133-1148 [doi.org/10.1016/j.ecolind.2017.10.070](https://doi.org/10.1016/j.ecolind.2017.10.070)
+-	Associated dataset - [National Hydrography Dataset Version 2 (NHDPlusV2)](http://www.horizon-systems.com/nhdplus/NHDplusV2_home.php)
+***
+-	**Citation:** [**Thornbrugh, D. J.**, S. G. Leibowitz, R. A. Hill, M. H. Weber, Z. C. Johnson A. R. Olsen, J. E. Flotemersch, J. L. Stoddard and D. V Peck. 2018. Mapping Watershed Integrity for the Conterminous United States. Ecological Indicators. 85:1133-1148 doi.org/10.1016/j.ecolind.2017.10.070](https://doi.org/10.1016/j.ecolind.2017.10.070)
 
 -	StreamCat Dataset - [National Index of Watershed Integrity & Index of Catchment Integrity by HydroRegion - ICI_IWI_Regions](ftp://newftp.epa.gov/EPADataCommons/ORD/NHDPlusLandscapeAttributes/StreamCat/HydroRegions/)
 -	StreamCat Dataset - [National Index of Watershed Integrity & Index of Catchment Integrity by State - ICI_IWI_State](ftp://newftp.epa.gov/EPADataCommons/ORD/NHDPlusLandscapeAttributes/StreamCat/States/)
