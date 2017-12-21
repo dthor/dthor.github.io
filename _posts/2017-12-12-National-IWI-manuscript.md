@@ -17,3 +17,4 @@ Author list: Darren J. Thornbrugh, Scott G. Leibowitz, Ryan A. Hill, Marc H. Web
 Anthony R. Olsen, Joseph E. Flotemersch, John L. Stoddard, and David V. Peck
 
 <img class="pure-img" src="/images/IWI_hd.jpg" width="" height="" style="margin-bottom:10px; border:1px solid #000000;" alt="Darren Thornbrugh, Ph.D.">
+Fig. 3. Thornbrugh et al. 2018, Index of Watershed Integrity for the conterminous United States showing higher integrity in bluer colors, moderate integrity in yellows, and lower integrity in redder colors. Because watersheds of consecutive stream segments are nested and overlap, each value is mapped onto the most downstream catchment within each watershed.

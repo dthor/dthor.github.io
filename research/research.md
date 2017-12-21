@@ -13,6 +13,12 @@ permalink: /research/
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I’m an aquatic ecologist interested in landscape processes and the impacts of natural and human factors on freshwater ecosystems and how these factors shape community structure, function, and ecosystem serveries of freshwater systems. I focus on developing statistical and spatial models along with conservation strategies of my principal research organisms, freshwater fishes and macroinvertebrates to bridge gaps between ecological theory and large datasets to inform applied management of aquatic natural resources.
 
+***
+**Collaborators:** Scott G. Leibowitz, Ryan A. Hill, Marc H. Weber, Zachary C. Johnson, Anthony R. Olsen, Joseph E. Flotemersch, John L. Stoddard, and David V. Peck
+
+<img class="pure-img" src="/images/IWI_hd.jpg" width="" height="" style="margin-bottom:10px; border:1px solid #000000;" alt="Darren Thornbrugh, Ph.D.">
+Fig. 3. Thornbrugh et al. 2018, Index of Watershed Integrity for the conterminous United States showing higher integrity in bluer colors, moderate integrity in yellows, and lower integrity in redder colors. Because watersheds of consecutive stream segments are nested and overlap, each value is mapped onto the most downstream catchment within each watershed.
+
 ### RESEARCH GOALS
 ***
 -	The application of aquatic landscape ecology to biodiversity conservation and management of natural resources.
