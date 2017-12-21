@@ -4,7 +4,7 @@ title: 'National IWI manuscript'
 date: 2017-12-12
 ---
 
-National IWI manuscript now available online
+The National IWI manuscript now available online.
 
 The manuscript, "Mapping watershed integrity for the conterminous United States," is now available online in the journal Ecological Indicators.
 
