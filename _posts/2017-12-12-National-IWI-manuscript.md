@@ -15,3 +15,5 @@ The manuscript, "Mapping watershed integrity for the conterminous United States,
 
 Author list: Darren J. Thornbrugh, Scott G. Leibowitz, Ryan A. Hill, Marc H. Weber, Zachary C. Johnson, 
 Anthony R. Olsen, Joseph E. Flotemersch, John L. Stoddard, and David V. Peck
+
+<img class="pure-img" src="/images/IWI_hd.jpg" width="" height="" style="margin-bottom:10px; border:1px solid #000000;" alt="Darren Thornbrugh, Ph.D.">
