@@ -34,6 +34,9 @@ googleplus:
 google scholar:
 mendeley:
 
+# Google Analytics
+google_analytics: UA-121035626-1
+
 source: C:/Users/DThornbrugh/dthor.github.io
 destination: C:/Users/DThornbrugh/dthor.github.io/_site 
 
