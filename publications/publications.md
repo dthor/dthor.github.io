@@ -17,7 +17,7 @@ permalink: /publications/
 ### PUBLICATIONS - In Press
 ***
 
-[15] Bellmore R. A., J. E. Compton, J. R. Brooks, E. W. Fox, R. A. Hill, D. J. Sobota, **D. J. Thornbrugh** and M. H. Weber, 2018. Nitrogen inputs drive nitrogen concentrations in U.S. streams and rivers during summer low flow conditions. Science of the Total Environment. 639:1349-1359. https://doi.org/10.1016/j.scitotenv.2018.05.008
+[15] Bellmore R. A., J. E. Compton, J. R. Brooks, E. W. Fox, R. A. Hill, D. J. Sobota, **D. J. Thornbrugh** and M. H. Weber, 2018. Nitrogen inputs drive nitrogen concentrations in U.S. streams and rivers during summer low flow conditions. Science of the Total Environment. 639:1349-1359. [https://doi.org/10.1016/j.scitotenv.2018.05.008](https://doi.org/10.1016/j.scitotenv.2018.05.008)
 
 [14] **Thornbrugh, D. J.**, S. G. Leibowitz, R. A. Hill, M. H. Weber, Z. C. Johnson A. R. Olsen, J. E. Flotemersch, J. L. Stoddard and D. V Peck. 2018. Mapping Watershed Integrity for the Conterminous United States. Ecological Indicators. 85:1133-1148 [doi.org/10.1016/j.ecolind.2017.10.070](https://doi.org/10.1016/j.ecolind.2017.10.070)
 
