@@ -68,6 +68,10 @@ Rapid City, SD 57701
 
 ### PRESENTATIONS 
 ***
+[31] **Thornbrugh D. J.**, S. G. Leibowitz, R. A. Hill, M. H. Weber, Z. C. Johnson A. R. Olsen, J. E. Flotemersch, J. L. Stoddard and D. V Peck. June 28, 2018. Mapping Watershed Integrity for the Conterminous United States. NOAA – Great Lakes Environmental Research Laboratory, Ann Arbor, Michigan USA. (invited oral presentation)
+
+[30] **Thornbrugh D. J.** April 19, 2018. Water quality comparison of two water years at Niobrara National Scenic River. Western South Dakota Hydrology Conference 2018, Rapid City, South Dakota. (poster presentation)
+
 [29] **Thornbrugh D.** and D. Bender. March 16, 2017. Protocol Implementation Plan for Stream and River Channel Characteristics Monitoring in the Northern Great Plains Network, Monitoring Change in the Physical Habitat of Streams and Rivers. Northern Great Plains Technical Committee and Board of Directors Meeting. (oral presentation)
 
 [28] **Thornbrugh D. J.** March 15, 2017. Water Quality Monitoring Update for Wadeable Streams and Rivers in the Northern Great Plains Network. Northern Great Plains Technical Committee and Board of Directors Meeting. (oral presentation)
