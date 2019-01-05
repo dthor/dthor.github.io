@@ -68,7 +68,7 @@ Rapid City, SD 57701
 
 ### PRESENTATIONS 
 ***
-[29] Thornbrugh D. and D. Bender. March 16, 2017. Protocol Implementation Plan for Stream and River Channel Characteristics Monitoring in the Northern Great Plains Network, Monitoring Change in the Physical Habitat of Streams and Rivers. Northern Great Plains Technical Committee and Board of Directors Meeting. (oral presentation)
+[29] **Thornbrugh D.** and D. Bender. March 16, 2017. Protocol Implementation Plan for Stream and River Channel Characteristics Monitoring in the Northern Great Plains Network, Monitoring Change in the Physical Habitat of Streams and Rivers. Northern Great Plains Technical Committee and Board of Directors Meeting. (oral presentation)
 
 [28] **Thornbrugh D. J.** March 15, 2017. Water Quality Monitoring Update for Wadeable Streams and Rivers in the Northern Great Plains Network. Northern Great Plains Technical Committee and Board of Directors Meeting. (oral presentation)
 
