@@ -9,7 +9,7 @@ title: ''
 
 <img src="/images/NGPN_Spring2016_DThornbrugh.jpg" class="pure-img" width="600px" align="left" style="float:left; margin-right:10px; margin-bottom:5px; border:1px solid #000000"/>
 
-<p text-align:justify>I recently started a new position with the National Park Service as an Aquatic Ecologist with the <a href="http://science.nature.nps.gov/im/units/ngpn/about.cfm/">Northern Great Plains Network (NGPN)</a> in May of 2016.</p>
+<p text-align:justify>I recently started a new position with the National Park Service as an Aquatic Ecologist with the <a href="https://www.nps.gov/im/ngpn/about-us.htm/">Northern Great Plains Network (NGPN)</a> in May of 2016.</p>
 
 <p text-align:justify>I'm an aquatic ecologist that has been working in freshwater ecology for 19 years. I earned a Ph.D. in Fisheries and Wildlife from Michigan State University, M.S. in Biology from Kansas State University, B.S. in Geography and B.A. in Environmental Studies from the University of Nebraska – Lincoln.</p> 
 
