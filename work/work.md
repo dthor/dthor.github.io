@@ -56,4 +56,10 @@ permalink: /work/
 -	Developing SQL Queries for SQL Server training (Learning Tree)
 -	Modeling Principles for Natural Resources Management (FWS NCTC online)
 -	Wilderness First Aid
--	NPS Operational Leadership.	
+-	NPS Operational Leadership
+-	Aquarius Time Series Data Management Software Training
+-	Climate Academy FSW-ALC3193
+-	Inventory and Monitoring Scientist Training
+-	Leadership and Management for Non-Managers and Aspiring Supervisors
+-	WebinaR – Using R for Natural Resource Data Analysis
+-	NEPA and Section 106 training
