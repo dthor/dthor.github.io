@@ -12,12 +12,12 @@ header_sm: images/dee_santiam_river_w1375.jpg
 ### AQUATIC ECOLOGIST 
 ***
                             
-[Northern Great Plains Inventory & Monitoring Network](http://science.nature.nps.gov/im/units/ngpn/about.cfm)    
+[Northern Great Plains Inventory & Monitoring Network](https://www.nps.gov/im/ngpn/index.htm)    
 National Park Service     
 231 East St. Joseph Street                    
 Rapid City, SD 57701 
 
-[NGPN I & M - Aquatic Invertebrates](http://science.nature.nps.gov/im/units/ngpn/monitor/aquaticinverts.cfm)      
-[NGPN I & M - Water Quality](http://science.nature.nps.gov/im/units/ngpn/monitor/waterquality.cfm)
+[NGPN I & M - Aquatic Invertebrates](https://www.nps.gov/im/ngpn/aquatic-inverts.htm)      
+[NGPN I & M - Water Quality](https://www.nps.gov/im/ngpn/water-quality.htm)
 
 [Download CV](/cv/CV_2016_Dec_dthornbrugh_gh.pdf "Download CV as PDF")  
