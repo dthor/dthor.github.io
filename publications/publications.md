@@ -9,7 +9,7 @@ permalink: /publications/
 
 ### IN REVIEW
 ***
-[2]**Thornbrugh, D. J.**, and D. M. Infante. _In Review_. Landscape effects on stream fishes: regional responses to human land uses across the eastern United States. in R. M. Hughes, L. Wang and D. M. Infante, editors. Advances in Understanding Landscape Influences on Freshwater Habitats and Biological Assemblage. American Fisheries Society, Symposium XX, Bethesda, Maryland
+[2] **Thornbrugh, D. J.**, and D. M. Infante. _In Review_. Landscape effects on stream fishes: regional responses to human land uses across the eastern United States. in R. M. Hughes, L. Wang and D. M. Infante, editors. Advances in Understanding Landscape Influences on Freshwater Habitats and Biological Assemblage. American Fisheries Society, Symposium XX, Bethesda, Maryland
 
 [1] **Thornbrugh, D. J.**, D. M. Infante and Y. Tsang. _In Review_. Regional trends of biodiversity indices: differences in natural landscape and human land use on stream fishes. Journal of Biogeography.
 
