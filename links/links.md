@@ -9,15 +9,15 @@ permalink: /links/
 
 ### Northern Great Plains Inventory & Monitoring Network (NGPN)
 ***
--   NGPN - [About this Network](http://science.nature.nps.gov/im/units/ngpn/about.cfm)
--   NGPN - [Network Parks](http://science.nature.nps.gov/im/units/ngpn/parks/index.cfm)
--   NGPN - [Inventories](http://science.nature.nps.gov/im/units/ngpn/inventory/index.cfm)
--   NGPN - Monitoring - [Water Quality](http://science.nature.nps.gov/im/units/ngpn/monitor/waterquality.cfm)
--   NGPN - Monitoring - [Aquatic Invertebrates](http://science.nature.nps.gov/im/units/ngpn/monitor/aquaticinverts.cfm)
+-   NGPN - [About this Network](https://www.nps.gov/im/ngpn/index.htm)
+-   NGPN - [Network Parks](https://www.nps.gov/im/ngpn/parks-partners.htm)
+-   NGPN - [Inventories](https://www.nps.gov/im/ngpn/what-we-inventory.htm)
+-   NGPN - Monitoring - [Water Quality](https://www.nps.gov/im/ngpn/water-quality.htm)
+-   NGPN - Monitoring - [Aquatic Invertebrates](https://www.nps.gov/im/ngpn/aquatic-inverts.htm)
 
 ### WATERSHED DATABASE - StreamCat Dataset
 ***
--	**Citation:** [Hill, Ryan A., Marc H. Weber, Scott G. Leibowitz, Anthony R. Olsen, and **Darren J. Thornbrugh**, 2016. The Stream-Catchment (StreamCat) Dataset: A Database of Watershed Metrics for the Conterminous United States. Journal of the American Water Resources Association (JAWRA) 1-9. DOI: 10.1111/1752-1688.12372.](http://onlinelibrary.wiley.com/doi/10.1111/1752-1688.12372/abstract)
+-	**Citation:** Hill, Ryan A., Marc H. Weber, Scott G. Leibowitz, Anthony R. Olsen, and **Darren J. Thornbrugh**, 2016. The Stream-Catchment (StreamCat) Dataset: A Database of Watershed Metrics for the Conterminous United States. Journal of the American Water Resources Association (JAWRA) 1-9. [DOI:10.1111/1752-1688.12372.](http://onlinelibrary.wiley.com/doi/10.1111/1752-1688.12372/abstract)
 
 
 -   StreamCat Dataset - [StreamCat](https://www.epa.gov/national-aquatic-resource-surveys/streamcat)
