@@ -68,7 +68,9 @@ Rapid City, SD 57701
 
 ### PRESENTATIONS 
 ***
-[31] **Thornbrugh D. J.**, S. G. Leibowitz, R. A. Hill, M. H. Weber, Z. C. Johnson A. R. Olsen, J. E. Flotemersch, J. L. Stoddard and D. V Peck. June 28, 2018. Mapping Watershed Integrity for the Conterminous United States. NOAA – Great Lakes Environmental Research Laboratory, Ann Arbor, Michigan USA. (invited oral presentation)
+[32] **Thornbrugh D. J.**, S. G. Leibowitz, R. A. Hill, M. H. Weber, Z. C. Johnson A. R. Olsen, J. E. Flotemersch, J. L. Stoddard and D. V Peck. June 28, 2018. A National Map of Watershed Integrity for the Conterminous U.S. USGS – Upper Midwest Environmental Sciences Center, La Crosse, Wisconsin USA. (invited seminar presentation)
+
+[31] **Thornbrugh D. J.**, S. G. Leibowitz, R. A. Hill, M. H. Weber, Z. C. Johnson A. R. Olsen, J. E. Flotemersch, J. L. Stoddard and D. V Peck. June 28, 2018. Mapping Watershed Integrity for the Conterminous United States. NOAA – Great Lakes Environmental Research Laboratory, Ann Arbor, Michigan USA. (invited seminar presentation)
 
 [30] **Thornbrugh D. J.** April 19, 2018. Water quality comparison of two water years at Niobrara National Scenic River. Western South Dakota Hydrology Conference 2018, Rapid City, South Dakota. (poster presentation)
 
