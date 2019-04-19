@@ -9,13 +9,15 @@ permalink: /publications/
 
 ### IN REVIEW
 ***
-[2] **Thornbrugh, D. J.**, and D. M. Infante. _In Review_. Landscape effects on stream fishes: regional responses to human land uses across the eastern United States. in R. M. Hughes, L. Wang and D. M. Infante, editors. Advances in Understanding Landscape Influences on Freshwater Habitats and Biological Assemblage. American Fisheries Society, Symposium XX, Bethesda, Maryland
+[2] Trondstad, L. M., O. Wilmot, **D. J. Thornbrugh**, and S. Hotaling. _In Review_. To composite or replicate: how sampling method and protocol differences alter stream bioassessment metrics. Environmental Monitoring and Assessment.
 
 [1] **Thornbrugh, D. J.**, D. M. Infante and Y. Tsang. _In Review_. Regional trends of biodiversity indices: differences in natural landscape and human land use on stream fishes. Journal of Biogeography.
 
 
 ### PUBLICATIONS - In Press
 ***
+
+[16] **Thornbrugh, D. J.**, and D. M. Infante. _In Press_. Landscape effects on stream fishes: broad-scale responses to anthropogenic land use across temperate mesic regions of the United States. pp. xx-xx in R. M. Hughes, D. M. Infante, L. Wang, K. Chen, and B. F. Terra, editors, Advances in understanding landscape influences on freshwater habitats and biological assemblage. American Fisheries Society, Symposium 90, Bethesda, Maryland
 
 [15] Bellmore R. A., J. E. Compton, J. R. Brooks, E. W. Fox, R. A. Hill, D. J. Sobota, **D. J. Thornbrugh** and M. H. Weber, 2018. Nitrogen inputs drive nitrogen concentrations in U.S. streams and rivers during summer low flow conditions. Science of the Total Environment. 639:1349-1359. [https://doi.org/10.1016/j.scitotenv.2018.05.008](https://doi.org/10.1016/j.scitotenv.2018.05.008)
 
@@ -53,11 +55,11 @@ permalink: /publications/
 
 [5] **Thornbrugh, D. J.** and M. H. Wilson. _In Preparation_. Water quality monitoring for Devils Tower National Monument: 2013 data report. Natural Resource Data Series NPS/NGPN/NRDS—201X/XXX. National Park Service, Fort Collins, Colorado
 
-[4] **Thornbrugh, D. J.**, K. J. Paintner-Green, and A. R. Jarding. _In Preparation_. Protocol Implementation Plan for Stream and River Channel Characteristics Monitoring in the Northern Great Plains Network: Narrative version 1.0. Natural Resource Report NPS/NGPN/NRR—201X/XXX. National Park Service, Fort Collins, Colorado.
+[4] **Thornbrugh, D. J.**, I. W. Ashton, A. R. Jarding, J. S. Mills, and K. J. Paintner-Green. _In Preparation_. Protocol implementation plan for stream channel monitoring in the Northern Great Plains Network: narrative version 1.0. Natural Resource Report NPS/NGPN/NRR—2019/XXX. National Park Service, Fort Collins, Colorado.
 
-[3] **Thornbrugh, D. J.** _In Preparation_. Stream and River Channel Characteristics Monitoring in the Northern Great Plains Network: Standard Operating Procedures Version 1.0. Natural Resource Report NPS/NGPN/NRR—201X/XXX. National Park Service, Fort Collins, Colorado.
+[3] **Thornbrugh, D. J.** and J. S. Mills. _In Preparation_. Stream channel monitoring in the Northern Great Plains Network: standard operating procedures version 1.0. Natural Resource Report NPS/NGPN/NRR—2019/XXX. National Park Service, Fort Collins, Colorado.
 
-[2] **Thornbrugh, D. J.** _In Preparation_. Stream and River Channel Characteristics Monitoring in Northern Great Plains Network parks: Data quality standards. Natural Resource Report NPS/NGPN/NRR—201X/XXX. National Park Service, Fort Collins, Colorado
+[2] **Thornbrugh, D. J.** _In Preparation_. Stream channel monitoring in Northern Great Plains Network: Data quality standards. Natural Resource Report NPS/NGPN/NRR—201X/XXX. National Park Service, Fort Collins, Colorado
 
 [1] **Thornbrugh, D. J.**, D. M. Infante, Y. Tsang, A. Moerke, T. Brenden, and C. Huckins. _In Preparation_. Multiple facets of a streams thermal regime: effects of stream temperature on Michigans fluvial fish assemblages. Transactions of the American Fisheries Society.
 
