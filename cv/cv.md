@@ -20,4 +20,4 @@ Rapid City, SD 57701
 [NGPN I & M - Aquatic Invertebrates](https://www.nps.gov/im/ngpn/aquatic-inverts.htm)      
 [NGPN I & M - Water Quality](https://www.nps.gov/im/ngpn/water-quality.htm)
 
-[Download CV](/cv/CV_2019_Apr_dthornbrugh_gh.pdf "Download CV as PDF")  
+[Download CV](/cv/CV_2019_May_dthornbrugh_gh.pdf "Download CV as PDF")  
