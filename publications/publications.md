@@ -71,11 +71,11 @@ permalink: /publications/
 
 ### TECHNICAL REPORTS 
 *** 
-[8] **Thornbrugh, D. J.**, I. W. Ashton, A. R. Jarding, J. S. Mills, and K. J. Paintner-Green. 2019. Protocol implementation plan for stream channel monitoring in the Northern Great Plains Network: narrative version 1.0. Natural Resource Report NPS/NGPN/NRR—2019/1918. National Park Service, Fort Collins, Colorado.
+[8] **Thornbrugh, D. J.**, I. W. Ashton, A. R. Jarding, J. S. Mills, and K. J. Paintner-Green. 2019. Protocol implementation plan for stream channel monitoring in the Northern Great Plains Network: narrative version 1.0. Natural Resource Report NPS/NGPN/NRR—2019/1918. National Park Service, Fort Collins, Colorado. [https://irma.nps.gov/DataStore/Reference/Profile/2260277](https://irma.nps.gov/DataStore/Reference/Profile/2260277)
 
-[7] **Thornbrugh, D. J.** 2019. Stream channel monitoring in Northern Great Plains Network: data quality standards. Natural Resource Report NPS/NGPN/NRR—2019/1919. National Park Service, Fort Collins, Colorado.
+[7] **Thornbrugh, D. J.** 2019. Stream channel monitoring in Northern Great Plains Network: data quality standards. Natural Resource Report NPS/NGPN/NRR—2019/1919. National Park Service, Fort Collins, Colorado. [https://irma.nps.gov/DataStore/Reference/Profile/2260278](https://irma.nps.gov/DataStore/Reference/Profile/2260278)
 
-[6] **Thornbrugh, D. J.** and J. S. Mills. 2019. SOPs 1-16: Stream channel monitoring. Northern Great Plains Network Standard Operating Procedures. NPS/NGPN/SOP. National Park Service, Rapid City, South Dakota.
+[6] **Thornbrugh, D. J.** and J. S. Mills. 2019. SOPs 1-16: Stream channel monitoring. Northern Great Plains Network Standard Operating Procedures. NPS/NGPN/SOP. National Park Service, Rapid City, South Dakota. [https://irma.nps.gov/DataStore/Reference/Profile/2259796](https://irma.nps.gov/DataStore/Reference/Profile/2259796)
 
 [5] **Thornbrugh, D. J.** 2013. Developing greater understanding of functional response of stream fishes to natural and anthropogenic landscape gradients across large regions. Marshall Plan Scholarship papers, Austrian Marshall Plan Foundation, University of Natural Resources and Applied Life Sciences (BOKU) Vienna, Austria. [Report](http://www.marshallplan.at/images/papers_scholarship/2013/Applied_Life_Sciences_Vienna_ThornbrughDarren_2013.pdf)
 
