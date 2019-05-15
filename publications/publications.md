@@ -53,13 +53,7 @@ permalink: /publications/
 ### IN PREPARATION 
 ***
 
-[5] **Thornbrugh, D. J.** and M. H. Wilson. _In Preparation_. Water quality monitoring for Devils Tower National Monument: 2013 data report. Natural Resource Data Series NPS/NGPN/NRDS—201X/XXX. National Park Service, Fort Collins, Colorado
-
-[4] **Thornbrugh, D. J.**, I. W. Ashton, A. R. Jarding, J. S. Mills, and K. J. Paintner-Green. _In Preparation_. Protocol implementation plan for stream channel monitoring in the Northern Great Plains Network: narrative version 1.0. Natural Resource Report NPS/NGPN/NRR—2019/XXX. National Park Service, Fort Collins, Colorado.
-
-[3] **Thornbrugh, D. J.** and J. S. Mills. _In Preparation_. Stream channel monitoring in the Northern Great Plains Network: standard operating procedures version 1.0. Natural Resource Report NPS/NGPN/NRR—2019/XXX. National Park Service, Fort Collins, Colorado.
-
-[2] **Thornbrugh, D. J.** _In Preparation_. Stream channel monitoring in Northern Great Plains Network: Data quality standards. Natural Resource Report NPS/NGPN/NRR—201X/XXX. National Park Service, Fort Collins, Colorado
+[2] **Thornbrugh, D. J.** and M. H. Wilson. _In Preparation_. Water quality monitoring for Devils Tower National Monument: 2013 data report. Natural Resource Data Series NPS/NGPN/NRDS—201X/XXX. National Park Service, Fort Collins, Colorado
 
 [1] **Thornbrugh, D. J.**, D. M. Infante, Y. Tsang, A. Moerke, T. Brenden, and C. Huckins. _In Preparation_. Multiple facets of a streams thermal regime: effects of stream temperature on Michigans fluvial fish assemblages. Transactions of the American Fisheries Society.
 
@@ -77,6 +71,12 @@ permalink: /publications/
 
 ### TECHNICAL REPORTS 
 *** 
+[8] **Thornbrugh, D. J.**, I. W. Ashton, A. R. Jarding, J. S. Mills, and K. J. Paintner-Green. 2019. Protocol implementation plan for stream channel monitoring in the Northern Great Plains Network: narrative version 1.0. Natural Resource Report NPS/NGPN/NRR—2019/1918. National Park Service, Fort Collins, Colorado.
+
+[7] **Thornbrugh, D. J.** 2019. Stream channel monitoring in Northern Great Plains Network: data quality standards. Natural Resource Report NPS/NGPN/NRR—2019/1919. National Park Service, Fort Collins, Colorado.
+
+[6] **Thornbrugh, D. J.** and J. S. Mills. 2019. SOPs 1-16: Stream channel monitoring. Northern Great Plains Network Standard Operating Procedures. NPS/NGPN/SOP. National Park Service, Rapid City, South Dakota.
+
 [5] **Thornbrugh, D. J.** 2013. Developing greater understanding of functional response of stream fishes to natural and anthropogenic landscape gradients across large regions. Marshall Plan Scholarship papers, Austrian Marshall Plan Foundation, University of Natural Resources and Applied Life Sciences (BOKU) Vienna, Austria. [Report](http://www.marshallplan.at/images/papers_scholarship/2013/Applied_Life_Sciences_Vienna_ThornbrughDarren_2013.pdf)
 
 [4] **Thornbrugh, D.**, D. Infante, A. Moerke, T. Brenden and C. Huckings. 2010. Effects of temperature on funtional relationships amoung Michigans fluvial fish assemblages: Identifying management opportunities in the face of environmantal change.  Michigan Department of Natural Resouces (MDNR) report, 230565
