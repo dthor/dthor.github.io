@@ -11,7 +11,7 @@ title: ''
 
 <p text-align:justify>I recently started a new position with the National Park Service as an Aquatic Ecologist with the <a href="https://www.nps.gov/im/ngpn/about-us.htm/">Northern Great Plains Network (NGPN)</a> in May of 2016.</p>
 
-<p text-align:justify>I'm am aquatic ecologist that has been working in freshwater ecology for 19 years. I earned a Ph.D. in Fisheries and Wildlife from Michigan State University, M.S. in Biology from Kansas State University, B.S. in Geography and B.A. in Environmental Studies from the University of Nebraska – Lincoln.</p> 
+<p text-align:justify>I'm an aquatic ecologist that has been working in freshwater ecology for 19 years. I earned a Ph.D. in Fisheries and Wildlife from Michigan State University, M.S. in Biology from Kansas State University, B.S. in Geography and B.A. in Environmental Studies from the University of Nebraska – Lincoln.</p> 
 
 <p text-align:justify>My post-doctoral fellowship work has incorporated principles of watershed ecology, landscape ecology, aquatic ecology, hydrology, and water quality in a systems approach to develop an index of watershed integrity for the conterminous US <a href="https://doi.org/10.1016/j.ecolind.2017.10.070">(Thornbrugh et al. 2018)</a>. The national Index of Watershed Integrity was developed as a first approximation as an applied index following a conceptual model of <a href="http://onlinelibrary.wiley.com/doi/10.1002/rra.2978/full/">watershed integrity</a> highlighting the multiple anthropogenic pressures humanity exerts on watersheds in the United States. </p>
 
