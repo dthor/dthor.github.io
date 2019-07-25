@@ -9,7 +9,7 @@ permalink: /publications/
 
 ### IN REVIEW
 ***
-[2] Trondstad, L. M., O. Wilmot, **D. J. Thornbrugh**, and S. Hotaling. _In Review_. To composite or replicate: how sampling method and protocol differences alter stream bioassessment metrics. Environmental Monitoring and Assessment.
+[2] Tronstad, L. M., O. Wilmot, **D. J. Thornbrugh**, and S. Hotaling. _In Review_. To composite or replicate: how sampling method and protocol differences alter stream bioassessment metrics. Environmental Monitoring and Assessment.
 
 [1] **Thornbrugh, D. J.**, D. M. Infante and Y. Tsang. _In Review_. Regional trends of biodiversity indices: differences in natural landscape and human land use on stream fishes. Journal of Biogeography.
 
