@@ -11,7 +11,9 @@ permalink: /work/
 
 *** 
 
-- **Aquatic Ecologist** (May 2016 - present) Northern Great Plains Inventory & Monitoring Network, National Park Service, Rapid City, SD
+- **Regional Analyst** (June 2019 - present) Forest Service, U.S. Department of Agriculture, Eastern Region, Renewable Resources Unit, Milwaukee, WI
+
+- **Aquatic Ecologist** (May 2016 - June 2019) Northern Great Plains Inventory & Monitoring Network, National Park Service, Rapid City, SD
 
 - **Post-Doctoral Research Fellow** (Dec. 2014 - May 2016) w/ Oak Ridge Institute for Science and Education (ORISE), at U.S. Environmental Protection Agency (EPA) National Health and Environmental Effects research Laboratory (NHEERL), Western Ecology Division (WED), Freshwater Ecology Branch (FEB), Corvallis, OR	
 	
