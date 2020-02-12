@@ -17,7 +17,7 @@ permalink: /publications/
 ### PUBLICATIONS - In Press
 ***
 
-[16] **Thornbrugh, D. J.**, and D. M. Infante. _In Press_. Landscape effects on stream fishes: broad-scale responses to anthropogenic land use across temperate mesic regions of the United States. pp. xx-xx in R. M. Hughes, D. M. Infante, L. Wang, K. Chen, and B. F. Terra, editors, Advances in understanding landscape influences on freshwater habitats and biological assemblage. American Fisheries Society, Symposium 90, Bethesda, Maryland
+[16] **Thornbrugh, D. J.**, and D. M. Infante. 2019. Landscape effects on stream fishes: broad-scale responses to anthropogenic land use across temperate mesic regions of the United States. pp. 351-383 in R. M. Hughes, D. M. Infante, L. Wang, K. Chen, and B. F. Terra, editors, Advances in understanding landscape influences on freshwater habitats and biological assemblage. American Fisheries Society, Symposium 90, Bethesda, Maryland
 
 [15] Bellmore R. A., J. E. Compton, J. R. Brooks, E. W. Fox, R. A. Hill, D. J. Sobota, **D. J. Thornbrugh** and M. H. Weber, 2018. Nitrogen inputs drive nitrogen concentrations in U.S. streams and rivers during summer low flow conditions. Science of the Total Environment. 639:1349-1359. [https://doi.org/10.1016/j.scitotenv.2018.05.008](https://doi.org/10.1016/j.scitotenv.2018.05.008)
 
