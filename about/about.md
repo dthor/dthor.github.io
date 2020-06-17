@@ -10,27 +10,28 @@ header: images/dee_santiam_river_clip.JPG
 
 ***
 
-### AQUATIC ECOLOGIST    
+### NATURAL RESOURCE SPECIALIST (Regional Analyst)    
 
 ***
                          
-[Northern Great Plains Inventory & Monitoring Network](http://science.nature.nps.gov/im/units/ngpn/index.cfm)    
+[Easteren Region, R9](https://www.fs.usda.gov/r9)    
   
-**National Park Service**     
-231 East St. Joseph Street                    
-Rapid City, SD 57701   
+**Forest Service**     
+626 E Wisconsin Ave                    
+Milwaukee, WI 53202   
 
 ### RESEARCH INTERESTS
 - - - -
--   Aquatic Landscape Ecology
--   Watershed Integrity/Health/Resources
--   Community Assembly Theory
+- Geospatial Analysis
+- Landscape Ecology
+- Watershed Integrity/Health/Resources
+- Community Assembly Theory
 -	Trait-Based Ecology and Biological Assessment
 -	Fish/Macroinvertebrate Ecology
 -	Native Fish Species Conservation
 -	Native/Introduced Fish Species Interactions
 -	Whole Stream/River Ecology
--   Water Quality
+- Water Quality
 -	Integrated use of GIS and Remote Sensing with Stream Ecology
 
 ### EDUCATION
