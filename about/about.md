@@ -23,8 +23,8 @@ Milwaukee, WI 53202
 ### RESEARCH INTERESTS
 - - - -
 - Geospatial Analysis
+- Forest Ecology/Vegetation Ecology
 - Landscape Ecology
-- Succession Forest Ecology 
 - Watershed Integrity/Health/Resources
 - Community Assembly Theory
 -	Trait-Based Ecology and Biological Assessment
