@@ -9,15 +9,12 @@ header_sm: images/dee_santiam_river_w1375.jpg
 
 ***
 
-### AQUATIC ECOLOGIST 
+### NATURAL RESOURCE SPECIALIST (Analyst) 
 ***
                             
-[Northern Great Plains Inventory & Monitoring Network](https://www.nps.gov/im/ngpn/index.htm)    
-National Park Service     
-231 East St. Joseph Street                    
-Rapid City, SD 57701 
+[Eastern Region, R9](https://www.fs.usda.gov/r9)    
+**Forest Service**     
+626 E Wisconsin Ave                   
+Milwaukee, WI 53202 
 
-[NGPN I & M - Aquatic Invertebrates](https://www.nps.gov/im/ngpn/aquatic-inverts.htm)      
-[NGPN I & M - Water Quality](https://www.nps.gov/im/ngpn/water-quality.htm)
-
-[Download CV](/cv/CV_2019_May_dthornbrugh_gh.pdf "Download CV as PDF")  
+[Download CV](/cv/CV_2020_June_dthornbrugh_gh.pdf "Download CV as PDF")  
