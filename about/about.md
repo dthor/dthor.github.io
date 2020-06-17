@@ -14,7 +14,7 @@ header: images/dee_santiam_river_clip.JPG
 
 ***
                          
-[Easteren Region, R9](https://www.fs.usda.gov/r9)    
+[Eastern Region, R9](https://www.fs.usda.gov/r9)    
   
 **Forest Service**     
 626 E Wisconsin Ave                    
