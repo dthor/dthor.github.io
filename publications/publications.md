@@ -53,7 +53,7 @@ permalink: /publications/
 ### IN PREPARATION 
 ***
 
-[2] Tronstad, L. M., O. J. Wilmot and **D. J. Thornbrugh**. _In Preparation_. Aquatic invertebrate monitoring at Agate Fossil Beds National Monument: 2016 annual report. Natural Resource Data Series NPS/NGPN/NRDS—2019/XXX. National Park Service, Fort Collins, Colorado.
+[2] Tronstad, L. M., O. J. Wilmot and **D. J. Thornbrugh**. _In Preparation_. Aquatic invertebrate monitoring at Agate Fossil Beds National Monument: 2016 annual report. Natural Resource Data Series NPS/NGPN/NRDS—20XX/XXX. National Park Service, Fort Collins, Colorado.
 
 [1] **Thornbrugh, D. J.**, D. M. Infante, Y. Tsang, A. Moerke, T. Brenden, and C. Huckins. _In Preparation_. Multiple facets of a streams thermal regime: effects of stream temperature on Michigans fluvial fish assemblages. Transactions of the American Fisheries Society.
 
