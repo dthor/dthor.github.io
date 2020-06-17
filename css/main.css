@@ -31,8 +31,8 @@ nav ul, footer ul a { color: #4682B4; }/*color of footer icons, steel-blue = #46
 nav ul a { color: #4682B4; font-size: 1.6em; font-weight: normal; }/*? what this is*/
 nav ul li a { color: #4682B4 ; font-size:1.6em; font-weight: bold;}/*color of tab text gray = #999 or #d5d5d5*/
 nav ul li a:hover { text-decoration: underline; color: #FF0000;font-weight: bold;}/*color of hover tab text steel-blue = #4682B4 gray = #999 or #d5d5d5*/
-nav ul .activepage a { color: #FF000; font-size: 1.6em; font-weight: bold;}/*Home tab color gray = #999 or #d5d5d5*/
-nav ul li .activepage a { color: #FF0000; font-size: 1.6em; font-weight: bold;}
+nav ul .activepage a { text-decoration: underline; color: #FF0000; font-size: 1.6em; font-weight: bold;}/*Home tab color gray = #999 or #d5d5d5*/
+nav ul li .activepage a { text-decoration: underline; color: #FF0000; font-size: 1.6em; font-weight: bold;}
 nav ul li .activepage a:hover { text-decoration: underline; color: #FF0000; font-weight: bold;}/*#FF0000*/
 
 nav { border-top: 1px solid #d5d5d5; border-bottom: 1px solid #d5d5d5; }
