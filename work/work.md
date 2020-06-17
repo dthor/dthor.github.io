@@ -11,7 +11,7 @@ permalink: /work/
 
 *** 
 
-- **Regional Analyst** (June 2019 - present) Forest Service, U.S. Department of Agriculture, Eastern Region, Renewable Resources Unit, Milwaukee, WI
+- **Natural Resource Specialist - Analyst** (June 2019 - present) Forest Service, U.S. Department of Agriculture, Eastern Region, Renewable Resources Unit, Milwaukee, WI
 
 - **Aquatic Ecologist** (May 2016 - June 2019) Northern Great Plains Inventory & Monitoring Network, National Park Service, Rapid City, SD
 
