@@ -25,6 +25,7 @@ Milwaukee, WI 53202
 - Geospatial Analysis
 - Forest Ecology/Vegetation Ecology
 - Landscape Ecology
+- Aquatic Landscape Ecology
 - Watershed Integrity/Health/Resources
 - Community Assembly Theory
 -	Trait-Based Ecology and Biological Assessment
