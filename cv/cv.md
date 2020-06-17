@@ -12,7 +12,8 @@ header_sm: images/dee_santiam_river_w1375.jpg
 ### NATURAL RESOURCE SPECIALIST (Analyst) 
 ***
                             
-[Eastern Region, R9](https://www.fs.usda.gov/r9)    
+[Eastern Region, R9](https://www.fs.usda.gov/r9) 
+***
 **Forest Service**     
 626 E Wisconsin Ave                   
 Milwaukee, WI 53202 
