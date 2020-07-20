@@ -14,7 +14,7 @@ permalink: /publications/
 
 ### PUBLICATIONS - In Press
 ***
-[17] Tronstad, L. M., O. Wilmot, **D. J. Thornbrugh**, and S. Hotaling, 2020. To composite or replicate: how sampling method and protocol differences alter collected stream invertebrates and associated bioassessment metrics. Environmental Monitoring and Assessment, 192, 531. [https://doi.org/10.1007/s10661-020-08489-7]
+[17] Tronstad, L. M., O. Wilmot, **D. J. Thornbrugh**, and S. Hotaling, 2020. To composite or replicate: how sampling method and protocol differences alter collected stream invertebrates and associated bioassessment metrics. Environmental Monitoring and Assessment, 192, 531. [https://doi.org/10.1007/s10661-020-08489-7](https://doi.org/10.1007/s10661-020-08489-7)
 
 [16] **Thornbrugh, D. J.**, and D. M. Infante. 2019. Landscape effects on stream fishes: broad-scale responses to anthropogenic land use across temperate mesic regions of the United States. pp. 351-383 in R. M. Hughes, D. M. Infante, L. Wang, K. Chen, and B. F. Terra, editors, Advances in understanding landscape influences on freshwater habitats and biological assemblage. American Fisheries Society, Symposium 90, Bethesda, Maryland
 
