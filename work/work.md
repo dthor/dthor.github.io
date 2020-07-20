@@ -11,7 +11,7 @@ permalink: /work/
 
 *** 
 
-- **Natural Resource Specialist - Analyst** (June 2019 - present) Forest Service, U.S. Department of Agriculture, Eastern Region, Renewable Resources Unit, Milwaukee, WI
+- **Natural Resource Specialist - Regional Analyst** (June 2019 - present) Forest Service, U.S. Department of Agriculture, Eastern Region, Renewable Resources Unit, Milwaukee, WI
 
 - **Aquatic Ecologist** (May 2016 - June 2019) Northern Great Plains Inventory & Monitoring Network, National Park Service, Rapid City, SD
 
@@ -52,6 +52,7 @@ permalink: /work/
 ### TRAININGS
 
 *** 
+- **National Park Service**
 -	AQUARIUS Time-Series Water Data Management Software 
 -	NPS Fundamentals
 -	Federal Retirement Training
@@ -65,3 +66,28 @@ permalink: /work/
 -	Leadership and Management for Non-Managers and Aspiring Supervisors
 -	WebinaR – Using R for Natural Resource Data Analysis
 -	NEPA and Section 106 training
+
+- **USDA Forest Service**
+-	Geospatial Interface (GI)
+-	Forest Inventory and Analysis (FIA) field sampling
+-	ArcGIS Online (AGOL)
+-	EVALIDator
+-	DATIM
+-	ArcGIS Pro
+-	Introduction to FUSION
+-	Introduction to eCognition
+-	Sentinel Satellites processing
+- 	Geoprocessing in ArcGIS
+-	FSVeg
+-	Forest Vegetation Simulator (FVS)
+-	Geospatial Scripting (R, Python, Google Earth Engine)
+-	Introduction to Random Forest modeling
+-	Using the Terrestrial Ecological Unit Inventory (TEUI) Geospatial Toolkit in ArcMap
+-	Lidar Introduction Tutorial, Lidar Fusion Tutorial
+-	Image Analysis with Lidar
+-	Forest Inventory Modeling
+-	Advanced Lidar Processing
+-	Introduction to Lidar modeling with R
+-	Imagery Deep Learning Made Easy
+-	LARI 100: Logging Systems for Resource Professionals
+-	ArcGIS Online Dashboard App Awareness
