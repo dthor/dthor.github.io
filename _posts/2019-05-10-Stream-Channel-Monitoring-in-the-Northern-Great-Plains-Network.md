@@ -6,7 +6,7 @@ date: 2019-05-10
 
 Publised: Protocol Implementation Plan for Stream Channel Monitoring in the Northern Great Plains Network and supportive documents
 
-[Natioinal Park Service Northern Great Plains Inventory and Monitoring Network](https://www.nps.gov/im/ngpn/index.htm)
+[National Park Service Northern Great Plains Inventory and Monitoring Network](https://www.nps.gov/im/ngpn/index.htm)
 
 [Stream Channel Monitoring in the Northern Great Plains Network](https://irma.nps.gov/DataStore/Reference/Profile/2259796)
 
