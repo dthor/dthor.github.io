@@ -11,7 +11,7 @@ permalink: /research/
 ***
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I’m an ecologist interested in landscape processes and the impacts of natural and human factors on freshwater and terrestrial ecosystems and how these factors shape community structure, function, and ecosystem serveries of freshwater and terrestrial systems. I focus on developing statistical and spatial models along with conservation strategies of freshwater and terestrial ecosystems to bridge gaps between ecological theory and large datasets to inform applied management of natural resources.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I’m an ecologist interested in landscape processes and the impacts of natural and human factors on freshwater and terrestrial ecosystems and how these factors shape community structure, function, and ecosystem services of freshwater and terrestrial systems. I focus on developing statistical and spatial models along with conservation strategies of freshwater and terestrial ecosystems to bridge gaps between ecological theory and large datasets to inform applied management of natural resources.
 
 ***
 **Project:** Mapping an Index of Watershed Integrity for the conterminous United States
