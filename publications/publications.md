@@ -70,6 +70,8 @@ permalink: /publications/
 
 ### TECHNICAL REPORTS 
 *** 
+[10] **D. J. Thornbrugh**. 2020. Data Summary for standing dead trees on the Huron-Manistee National Forest from Forest Inventory and Analysis (FIA) data. USDA's Forest Service.
+
 [9] Ashton, I. W., S. Rockwood, J. Mills, and **D. J. Thornbrugh**. 2020. Water quality monitoring for Devils Tower National Monument: 2013 data report. Natural Resource Data Series NPS/NGPN/NRDS—2020/1259. National Park Service, Fort Collins, Colorado.
 
 [8] **Thornbrugh, D. J.**, I. W. Ashton, A. R. Jarding, J. S. Mills, and K. J. Paintner-Green. 2019. Protocol implementation plan for stream channel monitoring in the Northern Great Plains Network: narrative version 1.0. Natural Resource Report NPS/NGPN/NRR—2019/1918. National Park Service, Fort Collins, Colorado. [https://irma.nps.gov/DataStore/Reference/Profile/2260277](https://irma.nps.gov/DataStore/Reference/Profile/2260277)
