@@ -40,7 +40,7 @@ permalink: /publications/
 
 [5] Paukert, C. P., J. Schloesser, J. Eitzmann, J. Fischer, K. Pitts, and **D. Thornbrugh**. 2008.  Effect of Instream Sand Dredging on Fish Communities in the Kansas River USA: Current and Historical Perspectives. Journal of Freshwater Ecology 23:623-633.
 
-[4] **Thornbrugh, D. J.** 2008. Influence of stream connectance and network spatial position on fish assemblage structure in the Kansas River basin, USA. Master thesis, Division of Biology, Kansas State University, Manhattan, KS, K-REx.[Thesis](http://krex.k-state.edu/dspace/handle/2097/535)
+[4] **Thornbrugh, D. J.** 2008. Influence of stream connectance and network spatial position on fish assemblage structure in the Kansas River basin, USA. Master thesis, Division of Biology, Kansas State University, Manhattan, KS, K-REx. [Thesis](http://krex.k-state.edu/dspace/handle/2097/535)
 
 [3] Schooley, J. D., A. P. Karam, B. R. Kesner, P. C. Marsh, C. A. Pacey, and **D. J. Thornbrugh**. 2008. Detection of Larval Remains after Consumption by Fishes. Transactions of the American Fisheries Society 137: 1044-1049.
 
@@ -78,7 +78,7 @@ permalink: /publications/
 
 [6] **Thornbrugh, D. J.** and J. S. Mills. 2019. SOPs 1-16: Stream channel monitoring. Northern Great Plains Network Standard Operating Procedures. NPS/NGPN/SOP. National Park Service, Rapid City, South Dakota. [https://irma.nps.gov/DataStore/Reference/Profile/2259796](https://irma.nps.gov/DataStore/Reference/Profile/2259796)
 
-[5] **Thornbrugh, D. J.** 2013. Developing greater understanding of functional response of stream fishes to natural and anthropogenic landscape gradients across large regions. Marshall Plan Scholarship papers, Austrian Marshall Plan Foundation, University of Natural Resources and Applied Life Sciences (BOKU) Vienna, Austria. [Report](http://www.marshallplan.at/images/papers_scholarship/2013/Applied_Life_Sciences_Vienna_ThornbrughDarren_2013.pdf)
+[5] **Thornbrugh, D. J.** 2013. Developing greater understanding of functional response of stream fishes to natural and anthropogenic landscape gradients across large regions. Marshall Plan Scholarship papers, Austrian Marshall Plan Foundation, University of Natural Resources and Applied Life Sciences (BOKU) Vienna, Austria. [Report](https://static1.squarespace.com/static/559921a3e4b02c1d7480f8f4/t/585c345ec534a53a55658ed5/1482437727971/Thornbrugh.pdf)
 
 [4] **Thornbrugh, D.**, D. Infante, A. Moerke, T. Brenden and C. Huckings. 2010. Effects of temperature on funtional relationships amoung Michigans fluvial fish assemblages: Identifying management opportunities in the face of environmantal change.  Michigan Department of Natural Resouces (MDNR) report, 230565
 
