@@ -72,12 +72,12 @@ permalink: /work/
   +	Forest Inventory and Analysis (FIA) field sampling
   +	ArcGIS Online (AGOL)
   +	EVALIDator
-  +	DATIM
-  +	ArcGIS Pro
+  +	Design and Analysis Toolkit for Inventory and Monitoring (DATIM)
+  +	ArcGIS Pro for ArcMap users
   +	Introduction to FUSION
   +	Introduction to eCognition
   +	Sentinel Satellites processing
-  + 	Geoprocessing in ArcGIS
+  +	Geoprocessing in ArcGIS
   +	FSVeg
   +	Forest Vegetation Simulator (FVS)
   +	Geospatial Scripting (R, Python, Google Earth Engine)
