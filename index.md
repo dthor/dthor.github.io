@@ -17,4 +17,4 @@ title: ''
 
 <p text-align:justify>My past experience also includes 5 years spent working on long term monitoring and research projects with 15 federally listed threatened or endangered fish species and with the rivers and streams they inhabit. I have spent many years working in aquatic bioassessment and community ecology, assessing relationships between community structure of fish and macroinvertebrate assemblages, aquatic ecosystems, terrestrial ecosystems and multiple human-related pressures in the landscape.</p>
 
-<p text-align:justify>I am avid fisherman and enjoy exploring the outdoors via running, hiking, biking, camping, backpacking, and paddle sports.</p>
+<p text-align:justify>I am an avid fishermen and enjoy exploring the outdoors via running, hiking, biking, camping, backpacking, and paddle sports.</p>
