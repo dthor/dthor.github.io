@@ -50,7 +50,7 @@ Fig. 3. Thornbrugh et al. 2018, Index of Watershed Integrity for the conterminou
 ### EDUCATION
 ***
 **PhD in Fisheries & Wildlife** 2009-2014. Department of Fisheries & Wildlife, College of Agriculture & Natural Resources, Michigan State University, East Lansing, Michigan  
-**Ms in Biology** 2006-2007. Division of Biology, College of Arts & Sciences, Kansas State University, Manhattan, Kansas  
+**MS in Biology** 2006-2007. Division of Biology, College of Arts & Sciences, Kansas State University, Manhattan, Kansas  
 **BA in Environmental Studies** 1999-2001. College of Arts & Sciences, University of Nebraska, Lincoln, Nebraska  
 **BS in Geography** 1994-2000. Minor: Biology, College of Arts & Sciences, University of Nebraska, Lincoln, Nebraska
 
