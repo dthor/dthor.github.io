@@ -52,21 +52,6 @@ permalink: /work/
 ### TRAININGS
 
 *** 
-* **National Park Service**
-  +	AQUARIUS Time-Series Water Data Management Software 
-  +	NPS Fundamentals
-  +	Federal Retirement Training
-  +	Developing SQL Queries for SQL Server training (Learning Tree)
-  +	Modeling Principles for Natural Resources Management (FWS NCTC online)
-  +	Wilderness First Aid
-  +	NPS Operational Leadership
-  +	Aquarius Time Series Data Management Software Training
-  +	Climate Academy FSW-ALC3193
-  +	Inventory and Monitoring Scientist Training
-  +	Leadership and Management for Non-Managers and Aspiring Supervisors
-  +	WebinaR – Using R for Natural Resource Data Analysis
-  +	NEPA and Section 106 training
-
 * **USDA Forest Service**
   +	Geospatial Interface (GI)
   +	Forest Inventory and Analysis (FIA) field sampling
@@ -91,3 +76,20 @@ permalink: /work/
   +	Imagery Deep Learning Made Easy
   +	LARI 100: Logging Systems for Resource Professionals
   +	ArcGIS Online Dashboard App Awareness
+  
+* **National Park Service**
+  +	AQUARIUS Time-Series Water Data Management Software 
+  +	NPS Fundamentals
+  +	Federal Retirement Training
+  +	Developing SQL Queries for SQL Server training (Learning Tree)
+  +	Modeling Principles for Natural Resources Management (FWS NCTC online)
+  +	Wilderness First Aid
+  +	NPS Operational Leadership
+  +	Aquarius Time Series Data Management Software Training
+  +	Climate Academy FSW-ALC3193
+  +	Inventory and Monitoring Scientist Training
+  +	Leadership and Management for Non-Managers and Aspiring Supervisors
+  +	WebinaR – Using R for Natural Resource Data Analysis
+  +	NEPA and Section 106 training
+
+
