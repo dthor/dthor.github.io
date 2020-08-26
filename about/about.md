@@ -71,6 +71,8 @@ Milwaukee, WI 53202
 
 ### PRESENTATIONS 
 ***
+[33] **Thornbrugh D. J.** August 25, 2020. Forest Inventory and Analysis (FIA) Data Summary for Standing Dead Trees on the Huron-Manistee National Forest, Eastern Region (R9) Monthly Wildlife Call, Milwaukee, Wisconsin USA. (invited oral presentation)
+
 [32] **Thornbrugh D. J.**, S. G. Leibowitz, R. A. Hill, M. H. Weber, Z. C. Johnson A. R. Olsen, J. E. Flotemersch, J. L. Stoddard and D. V Peck. March 07, 2019. A National Map of Watershed Integrity for the Conterminous U.S. USGS – Upper Midwest Environmental Sciences Center, La Crosse, Wisconsin USA. (invited seminar presentation)
 
 [31] **Thornbrugh D. J.**, S. G. Leibowitz, R. A. Hill, M. H. Weber, Z. C. Johnson A. R. Olsen, J. E. Flotemersch, J. L. Stoddard and D. V Peck. June 28, 2018. Mapping Watershed Integrity for the Conterminous United States. NOAA – Great Lakes Environmental Research Laboratory, Ann Arbor, Michigan USA. (invited seminar presentation)
