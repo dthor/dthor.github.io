@@ -19,13 +19,13 @@ permalink: /work/
 	
 - **Marshall Plan Visiting Researcher (Marshall Plan Fellow)** (Feb. 2013 - Aug. 2013) Institute for Hydrobiology and Water Management, University of Natural Resources and Life Sciences (BOKU) Vienna, Austria. (Dr. Stefan Schmutz, Dr. Rafaela Schinegger, Dr. Andreas Melcher, Dr. Dana Infante)
 
-- **Graduate Research Assistant (PhD)** (May 2009 - Dec. 2014) Department of Fisheries and Wildlife, Michigan State University, East Lansing, MI. (Dana Infante)
+- **Graduate Research Assistant (PhD)** (May 2009 - Dec. 2014) Department of Fisheries and Wildlife, Michigan State University, East Lansing, MI. (Dr. Dana Infante)
 
 - **Fish & Wildlife Biologist I** (Oct. 2008 - May 2009) Nebraska Game & Parks Commission, Lincoln, NE
 
 - **North Pacific Groundfish Observer** (Feb. 2008 - Sept. 2008) Alaskan Observers Inc. Seattle, WA
 
-- **Graduate Research/Teaching Assistant (MS)** (Aug. 2005 - Jan. 2008) Kansas State	University, Division of Biology, Manhattan, KS. (Keith	B. Gido)
+- **Graduate Research/Teaching Assistant (MS)** (Aug. 2005 - Jan. 2008) Kansas State	University, Division of Biology, Manhattan, KS. (Dr. Keith B. Gido)
 
 - **Research Technician** (Jan. 2005 - July 2005) Kansas State University, Division of Biology, Manhattan, KS
 
