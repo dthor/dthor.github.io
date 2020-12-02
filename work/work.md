@@ -7,7 +7,7 @@ permalink: /work/
 
 ***
 
-### PROFESSIONAL/WORK EXPERIENCE 
+### PROFESSIONAL POSITIONS/WORK EXPERIENCE 
 
 *** 
 
@@ -17,7 +17,9 @@ permalink: /work/
 
 - **Post-Doctoral Research Fellow** (Dec. 2014 - May 2016) w/ Oak Ridge Institute for Science and Education (ORISE), at U.S. Environmental Protection Agency (EPA) National Health and Environmental Effects research Laboratory (NHEERL), Western Ecology Division (WED), Freshwater Ecology Branch (FEB), Corvallis, OR	
 	
-- **Graduate Research Assistant (PhD)** (May 2009 - Dec. 2014) Department of Fisheries and Wildlife, Michigan State University, East Lansing, MI. (Dana M. Infante)
+- **Marshall Plan Visiting Researcher (Marshall Plan Fellow)** (Feb. 2013 - Aug. 2013) Institute for Hydrobiology and Water Management, University of Natural Resources and Life Sciences (BOKU) Vienna, Austria. (Dr. Stefan Schmutz, Dr. Rafaela Schinegger, Dr. Andreas Melcher, Dr. Dana Infante)
+
+- **Graduate Research Assistant (PhD)** (May 2009 - Dec. 2014) Department of Fisheries and Wildlife, Michigan State University, East Lansing, MI. (Dana Infante)
 
 - **Fish & Wildlife Biologist I** (Oct. 2008 - May 2009) Nebraska Game & Parks Commission, Lincoln, NE
 
@@ -91,5 +93,3 @@ permalink: /work/
   +	Leadership and Management for Non-Managers and Aspiring Supervisors
   +	WebinaR – Using R for Natural Resource Data Analysis
   +	NEPA and Section 106 training
-
-
