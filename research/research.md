@@ -36,6 +36,9 @@ Fig. 3. Thornbrugh et al. 2018, Index of Watershed Integrity for the conterminou
 
 ### RESEARCH INTERESTS
 - - - -
+- Geospatial Analysis
+- Forest Ecology/Vegetation Ecology
+- Landscape Ecology
 - Aquatic Landscape Ecology
 - Watershed Integrity/Health/Resources
 - Community Assembly Theory
