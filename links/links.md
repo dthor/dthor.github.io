@@ -25,7 +25,7 @@ permalink: /links/
 -	StreamCat Dataset - [Variable List - Quick Reference](ftp://newftp.epa.gov/EPADataCommons/ORD/NHDPlusLandscapeAttributes/StreamCat/Documentation/VariableList-QuickReference.html)
 -	StreamCat Dataset - [Data Dictionary](ftp://newftp.epa.gov/EPADataCommons/ORD/NHDPlusLandscapeAttributes/StreamCat/Documentation/DataDictionary.html)
 -	StreamCat Dataset - [Github](https://github.com/USEPA/StreamCat)
--	Associated dataset - [National Hydrography Dataset Version 2 (NHDPlusV2)](http://www.horizon-systems.com/nhdplus/NHDplusV2_home.php)
+-	Associated dataset - [National Hydrography Dataset Version 2 (NHDPlusV2)](https://www.epa.gov/waterdata/nhdplus-national-hydrography-dataset-plus)
 
 ***
 -	**Citation:** **Thornbrugh, Darren. J.**, Scott G. Leibowitz, Ryan A. Hill, Marc H. Weber, Zachary C. Johnson Anthony R. Olsen, Joseph E. Flotemersch, John L. Stoddard and David V. Peck. 2018. Mapping Watershed Integrity for the Conterminous United States. Ecological Indicators. 85:1133-1148 [doi.org/10.1016/j.ecolind.2017.10.070](https://doi.org/10.1016/j.ecolind.2017.10.070)
