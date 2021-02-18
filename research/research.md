@@ -16,10 +16,11 @@ permalink: /research/
 ***
 **Project:** Mapping an Index of Watershed Integrity for the conterminous United States
 
-**Index of Watershed Integrity Web Application:**  [Web App](https://usfs.maps.arcgis.com/apps/webappviewer/index.html?id=3e8c02584b074ba9be68dec425de819d)
+**Index of Watershed Integrity Web Application:** - [Web App](https://usfs.maps.arcgis.com/apps/webappviewer/index.html?id=3e8c02584b074ba9be68dec425de819d)
 
 **QR code:** 
-<img class="pure-img" src="/images/iwi_qrcode_usfs.maps.arcgis.com.png" width="50" height="50" alt="QR code">
+
+<img class="pure-img" src="/images/iwi_qrcode_usfs.maps.arcgis.com.png" width="150" height="150" alt="QR code">
 
 **Collaborators:** Scott G. Leibowitz, Ryan A. Hill, Marc H. Weber, Zachary C. Johnson, Anthony R. Olsen, Joseph E. Flotemersch, John L. Stoddard, and David V. Peck
 
