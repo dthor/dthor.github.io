@@ -78,6 +78,13 @@ permalink: /work/
   +	Imagery Deep Learning Made Easy
   +	LARI 100: Logging Systems for Resource Professionals
   +	ArcGIS Online Dashboard App Awareness
+  +	Raster Functions in ArcGIS Pro
+  +     Vegetation projection models with: Plan-level forest activity scheduling model (PRISM)
+  +	Lidar in ArcGIS Pro
+  +	Lidar Zonal Statistics Tool
+  +	Forest Service Natural Resource Management (NRM) Field Sampled Vegetation (FSVeg) Command Stand Exam
+  +	FSVeg Spatial
+  +	FSVeg Data Analyzer
   
 * **National Park Service**
   +	AQUARIUS Time-Series Water Data Management Software 
