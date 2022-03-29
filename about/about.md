@@ -71,6 +71,10 @@ Milwaukee, WI 53202
 
 ### PRESENTATIONS 
 ***
+[35] G. Nowacki, K. Frerker, J Kroll, D Morley, R Toot, R. Risley, E. Engstrom, **D. Thornbrugh**, K. Steele, J. Barott and C. McQuiston. March 29, 2022. Delineating Landtype Associations for the Superior National Forest and adjacent lands and placement into an Ecological Hierarchy. Superior National Forest Landtype Association Review: Background and Instructions. Forest Service, Superior National Forest, Eastern Region (R9) virtual. (oral presentation)
+
+[34] **Thornbrugh D.**, D. Infante, Y Tsang. February 15, 2022. Regional trends of biodiversity indices: differences in natural landscapes and anthropogenic land use influences on stream fishes in State of the science on measures of faunal community health in response to multi-scale stressors Symposium at the 82nd Midwest Fish and Wildlife Conference in Des Moines, Iowa USA. (invited oral symposium presentation)
+
 [33] **Thornbrugh D. J.** August 25, 2020. Forest Inventory and Analysis (FIA) Data Summary for Standing Dead Trees on the Huron-Manistee National Forest, Eastern Region (R9) Monthly Wildlife Call, Milwaukee, Wisconsin USA. (invited oral presentation)
 
 [32] **Thornbrugh D. J.**, S. G. Leibowitz, R. A. Hill, M. H. Weber, Z. C. Johnson A. R. Olsen, J. E. Flotemersch, J. L. Stoddard and D. V Peck. March 07, 2019. A National Map of Watershed Integrity for the Conterminous U.S. USGS – Upper Midwest Environmental Sciences Center, La Crosse, Wisconsin USA. (invited seminar presentation)
