@@ -37,6 +37,9 @@ Image 1. Red Relief Image Map of the Mississippi River and floodplain in Minneso
 The RRIM can express details of topography by single image map and has overcome some of the shortness of traditional topographic visualization methods like light direction dependence from hill-shading, weakness for scaling and poor expression for flat or steep relief from contour lines, distinguishing convex and concave from slope gradient, and removes need for additional stereoscope and filtering devices for viewing.
 
 The RRIM effectively represents topographic data in a shade free 3D single image, clearly showing convexity, concavity, and representing fine topographic structure in flat surfaces, improving interpretation of topographic features.
+
+<img class="pure-img" src="/images/Progression.jpg" width="" height="" style="margin-bottom:10px; border:1px solid #000000;" alt="Darren Thornbrugh, Ph.D.">
+Image 2. Photo progression comparing visual outputs for Imagery, Hill-shade, Contours, Slope gradient, Openness index, Red Relief Image Map (RRIM), and RRIM + Contours
 ***
 
 ### RESEARCH GOALS
