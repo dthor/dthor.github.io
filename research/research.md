@@ -40,6 +40,7 @@ The RRIM effectively represents topographic data in a shade free 3D single image
 
 <img class="pure-img" src="/images/Progression.jpg" width="" height="" style="margin-bottom:10px; border:1px solid #000000;" alt="Darren Thornbrugh, Ph.D.">
 Image 2. Photo progression comparing visual outputs for Imagery, Hill-shade, Contours, Slope gradient, Openness index, Red Relief Image Map (RRIM), and RRIM + Contours
+
 ***
 
 ### RESEARCH GOALS
