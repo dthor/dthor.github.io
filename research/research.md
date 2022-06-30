@@ -22,6 +22,20 @@ permalink: /research/
 
 <img class="pure-img" src="/images/IWI_hd.jpg" width="" height="" style="margin-bottom:10px; border:1px solid #000000;" alt="Darren Thornbrugh, Ph.D.">
 Fig. 3. Thornbrugh et al. 2018, Index of Watershed Integrity for the conterminous United States showing higher integrity in bluer colors, moderate integrity in yellows, and lower integrity in redder colors. Because watersheds of consecutive stream segments are nested and overlap, each value is mapped onto the most downstream catchment within each watershed.
+ 
+***
+**Project:** Red Relief Image Map (RRIM) for northeast Minnesota for Chippewa and Superior National Forests
+
+**Collaborators:** Darren Thornbrugh and Trevor Hobbs
+
+<img class="pure-img" src="/images/UpperMississippiRiver_hd.tif" width="" height="" style="margin-bottom:10px; border:1px solid #000000;" alt="Darren Thornbrugh, Ph.D.">
+Image 1. Red Relief Image Map of the Mississippi River and floodplain in Minnesota near Jacobson MN, southeast of Grand Rapids, MN.
+
+**Summary:** Red Relief Image Map (RRIM) is a visualization method for topography data that enhances the three dimensional (3D) visual in a single image. The RRIM applies a chroma of red color to a slope gradient and overlays over an openness index giving enhanced 3D appearance (Conrad et al. 2015, Chiba et al. 2008, Yokoyama et al., 2002). This topography visualization technique exaggerates relative relief, highlighting ridges and valleys, breaks in landform characteristics, interpretation of topographic features, and built infrastructure. The RRIM can be calculated from detailed Lidar derived digital elevation model (DEM) and other DEM products.
+
+The RRIM can express details of topography by single image map and has overcome some of the shortness of traditional topographic visualization methods like light direction dependence from hill-shading, weakness for scaling and poor expression for flat or steep relief from contour lines, distinguishing convex and concave from slope gradient, and removes need for additional stereoscope and filtering devices for viewing.
+
+The RRIM effectively represents topographic data in a shade free 3D single image, clearly showing convexity, concavity, and representing fine topographic structure in flat surfaces, improving interpretation of topographic features.
 
 ### RESEARCH GOALS
 ***
