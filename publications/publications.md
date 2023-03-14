@@ -9,7 +9,7 @@ permalink: /publications/
 
 ### IN REVIEW
 ***
-[1] **Thornbrugh, D. J.**, D. M. Infante and Y. Tsang. _In Review_. Regional trends of biodiversity indices: differences in natural landscape and human land use on stream fishes. Journal of Biogeography.
+[1] **Thornbrugh, D. J.**, D. M. Infante and Y. Tsang. _In Review_. Regional trends of biodiversity indices in the temperate mesic United States: testing for influences of anthropogenic land use on stream fish while controlling for natural landscape variables. Water.
 
 
 ### PUBLICATIONS - In Press
