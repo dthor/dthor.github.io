@@ -13,7 +13,7 @@ permalink: /publications/
 
 ### PUBLICATIONS - In Press
 ***
-[18] **Thornbrugh, D. J.**, D. M. Infante and Y. Tsang. 2023. Regional trends of biodiversity indices in the temperate mesic United States: testing for influences of anthropogenic land use on stream fish while controlling for natural landscape variables. Water. 15(8):1591. [https://doi.org/10.3390/w15081591](https://doi.org/10.3390/w15081591) [HTML version](https://www.mdpi.com/2073-4441/15/8/1591/htm)
+[18] **Thornbrugh, D. J.**, D. M. Infante and Y. Tsang. 2023. Regional trends of biodiversity indices in the temperate mesic United States: testing for influences of anthropogenic land use on stream fish while controlling for natural landscape variables. Water. 15(8):1591. [HTML version](https://www.mdpi.com/2073-4441/15/8/1591/htm), [https://doi.org/10.3390/w15081591](https://doi.org/10.3390/w15081591) 
 
 This article belongs to the Special Issue: [Disentangling Influences of Natural and Human Factors on Aquatic Ecosystems](https://www.mdpi.com/journal/water/special_issues/aquatic_systems)
 
