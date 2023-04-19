@@ -22,4 +22,4 @@ Figure 1. Five freshwater ecoregions of the United States that comprised the stu
 
 <img class="pure-img" src="/images/figure2.jpg" width="" height="" style="margin-bottom:10px; border:1px solid #000000;">
 
-Figure 2. Range in adjusted R^2 values in biodiversity indices across five study freshwater ecoregions from the multiple linear regressions. The dots are mean values with the whiskers representing maximum and minimum values.
+Figure 2. Range in adjusted R<sup>2</sup> values in biodiversity indices across five study freshwater ecoregions from the multiple linear regressions. The dots are mean values with the whiskers representing maximum and minimum values.
