@@ -14,7 +14,7 @@ __Citation__: **Thornbrugh, D. J.**, D. M. Infante and Y. Tsang. 2023. Regional 
 
 __Special Issue of *Water*__: [Disentangling Influences of Natural and Human Factors on Aquatic Ecosystems](https://www.mdpi.com/journal/water/special_issues/aquatic_systems)
 
-__Section__:[Biodiversity and Functionality of Aquatic Ecosystems](https://www.mdpi.com/journal/water/sections/Biodiversity_Ecosystem_Functioning)
+__Section__: [Biodiversity and Functionality of Aquatic Ecosystems](https://www.mdpi.com/journal/water/sections/Biodiversity_Ecosystem_Functioning)
 
 <img class="pure-img" src="/images/figure1.jpg" width="" height="" style="margin-bottom:10px; border:1px solid #000000;">
 Figure 1. Five freshwater ecoregions of the United States that comprised the study area (Abell et al. 2008 BioScience)
