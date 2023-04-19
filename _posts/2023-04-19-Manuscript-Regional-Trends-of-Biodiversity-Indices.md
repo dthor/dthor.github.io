@@ -20,6 +20,7 @@ __Section__:[Biodiversity and Functionality of Aquatic Ecosystems](https://www.m
 Figure 1. Five freshwater ecoregions of the United States that comprised the study area (Abell et al. 2008 BioScience)
 
 
+
 <img class="pure-img" src="/images/figure2.jpg" width="" height="" style="margin-bottom:10px; border:1px solid #000000;">
 
 Figure 2. Range in adjusted R<sup>2</sup> values in biodiversity indices across five study freshwater ecoregions from the multiple linear regressions. The dots are mean values with the whiskers representing maximum and minimum values.
