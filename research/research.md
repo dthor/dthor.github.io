@@ -82,13 +82,16 @@ Image 2. Photo progression comparing visual outputs for Imagery, Hill-shade, Con
 ### WATERSHED DATABASE - StreamCat Dataset
 ***
 -	**Citation:** Hill, Ryan A., Marc H. Weber, Scott G. Leibowitz, Anthony R. Olsen, and **Darren J. Thornbrugh**, 2016. The Stream-Catchment (StreamCat) Dataset: A Database of Watershed Metrics for the Conterminous United States. Journal of the American Water Resources Association (JAWRA) 1-9. [DOI: 10.1111/1752-1688.12372.](http://onlinelibrary.wiley.com/doi/10.1111/1752-1688.12372/abstract)
-- StreamCat Dataset - [StreamCat](https://www.epa.gov/national-aquatic-resource-surveys/streamcat)
-- StreamCat Dataset - [Welcome](ftp://newftp.epa.gov/EPADataCommons/ORD/NHDPlusLandscapeAttributes/StreamCat/WelcomePage.html)
--	StreamCat Dataset - [Data by HydroRegion](ftp://newftp.epa.gov/EPADataCommons/ORD/NHDPlusLandscapeAttributes/StreamCat/HydroRegions/)
--	StreamCat Dataset - [Data by State](ftp://newftp.epa.gov/EPADataCommons/ORD/NHDPlusLandscapeAttributes/StreamCat/States/)
--	StreamCat Dataset - [Data Dictionary](ftp://newftp.epa.gov/EPADataCommons/ORD/NHDPlusLandscapeAttributes/StreamCat/Documentation/DataDictionary.html)
+- StreamCat Dataset - [StreamCat](https://www.epa.gov/national-aquatic-resource-surveys/streamcat-dataset)
+- StreamCat Dataset - [Access StreamCat Data](https://www.epa.gov/national-aquatic-resource-surveys/streamcat-dataset#access-streamcat-data)
+- StreamCat Dataset - [Variable list and Definitions](https://www.epa.gov/national-aquatic-resource-surveys/streamcat-metrics-and-definitions)
+- StreamCat Dataset - [Geospatial Framework and Terms](https://www.epa.gov/national-aquatic-resource-surveys/streamcat-dataset-readme#geospatial)  
+-	StreamCat Dataset - [Data by HydroRegion](https://gaftp.epa.gov/epadatacommons/ORD/NHDPlusLandscapeAttributes/StreamCat/HydroRegions/)
+-	StreamCat Dataset - [Data by State](https://gaftp.epa.gov/epadatacommons/ORD/NHDPlusLandscapeAttributes/StreamCat/States/)
+-	StreamCat Dataset - [Table View: Metric, Area of Interest](https://www.epa.gov/national-aquatic-resource-surveys/streamcat-web-tool-table-view)
+-	StreamCat Dataset - [R Programming Interface](https://github.com/USEPA/StreamCatTools)
 -	StreamCat Dataset - [Github](https://github.com/USEPA/StreamCat)
--	Associated dataset - [National Hydrography Dataset Version 2 (NHDPlusV2)](http://www.horizon-systems.com/nhdplus/NHDplusV2_home.php)
+-	Associated dataset - [National Hydrography Dataset Version 2 (NHDPlusV2)](https://www.epa.gov/waterdata/nhdplus-national-hydrography-dataset-plus)
 
 ### FELLOWSHIP AWARDS AND FUNDING 
 ***
