@@ -1,11 +1,15 @@
 html { margin: 30px auto; width: 70%; font-size: 100%; }
 body { margin: 0px auto; width: 100%; font-size: 100%; }
 
-a { text-decoration: none; color: #4682B4;}/*color of hyperlinks #4682B4 */
-a:hover { text-decoration: underline; color: #FF0000;}/*color of hover for hyperlinks #FF0000 */
-a:active { text-decoration: underline; color: #FF0000;}/*color of active for hyperlinks #FF0000 */
+/*unvisited link*/
+a:link { text-decoration: none; color: #4682B4;}/*color of hyperlinks #4682B4 */
+/*visited link*/
 /* a:visited { text-decoration: underline; color: purple;}*//*color of visited for hyperlinks #FF0000 */
-/* a:focus { text-decoration: underline; color: green;}*//*color of focus for hyperlinks #FF0000 */
+/*mouse over link*/
+a:hover { text-decoration: underline; color: #FF0000;}/*color of hover for hyperlinks #FF0000 */
+/*selected link*/
+a:active { text-decoration: underline; color: #FF0000;}/*color of active for hyperlinks #FF0000 */
+
 
 p, ul { font-size: 1.1em; line-height: 1.3em; color: #333; font-family: 'fira sans'; }
 
