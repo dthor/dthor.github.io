@@ -53,6 +53,8 @@ permalink: /publications/
 ### IN PREPARATION 
 ***
 
+[3] Frerker, K.; Nowacki, G.; Risley, R.; Morley, D.; Kroll, J.; Toot, R.; **Thornbrugh, D.**; Engstrom, E.; Barott, J.; McQuiston, C.; Rokus, M.; Steele, K.; and Thomas-Van Gundy, M. 2023. Landtype Associations of the Superior National Forest, adjacent lands, and their placement in the National Hierarchical Framework of Ecological Units, Res. Map NRS. Newton Square. PA: U.S. Department of Agriculture, Forest Service, Northern Research Station. [scale 1:35,000]
+  
 [2] Tronstad, L. M., O. J. Wilmot and **D. J. Thornbrugh**. _In Preparation_. Aquatic invertebrate monitoring at Agate Fossil Beds National Monument: 2016 annual report. Natural Resource Data Series NPS/NGPN/NRDS—20XX/XXX. National Park Service, Fort Collins, Colorado.
 
 [1] **Thornbrugh, D. J.**, D. M. Infante, Y. Tsang, A. Moerke, T. Brenden, and C. Huckins. _In Preparation_. Multiple facets of a streams thermal regime: effects of stream temperature on Michigans fluvial fish assemblages. Transactions of the American Fisheries Society.
