@@ -2,8 +2,8 @@ html { margin: 30px auto; width: 70%; font-size: 100%; }
 body { margin: 0px auto; width: 100%; font-size: 100%; }
 
 a { text-decoration: none; color: #4682B4;}/*color of hyperlinks #4682B4 */
-a:hover, active { text-decoration: underline; color: #FF0000;}/*color of hover and active for hyperlinks #FF0000 */
-/* a:active { text-decoration: underline; color: #FF0000;}*//*color of hover for hyperlinks #FF0000 */
+a:hover { text-decoration: underline; color: #FF0000;}/*color of hover and active for hyperlinks #FF0000 */
+a:active { text-decoration: underline; color: #FF0000;}/*color of hover for hyperlinks #FF0000 */
 /* a:visited { text-decoration: underline; color: purple;}*//*color of hover for hyperlinks #FF0000 */
 /* a:focus { text-decoration: underline; color: green;}*//*color of hover for hyperlinks #FF0000 */
 
