@@ -16,7 +16,7 @@ __Session__: Rivers: Population Demographics and Distribution
 __Video_Presentation_:
 <a href="https://www.youtube.com/watch?v=Jya0VoxPoyo" rel="noreferrer"
 title="AFS presentation link - Click to Watch!">
-<img src="images/Thornbrugh_AFS_20230814v_s1.jpg" width="640" height="360" alt="AFS presentation link">
+<img src="https://i9.ytimg.com/vi/Jya0VoxPoyo/mqdefault.jpg?v=64ee3dd4&sqp=CNj7uKcG&rs=AOn4CLB81ZUcoFfYkLnGCgSf3K5DLFsaZQ" width="640" height="360" alt="AFS presentation link">
 </a>
 
 ***
