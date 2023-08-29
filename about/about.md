@@ -71,7 +71,7 @@ Milwaukee, WI 53202
 
 ### PRESENTATIONS 
 ***
-[37] **Thornbrugh D.**, D. Infante, Y. Tsang. August 24, 2023. Influences of Anthropogenic Stressors on Stream Fish: Regional Trends of Biodiversity Indices. Session: Rivers: Population Demographics and Distribution. American Fisheries Society 153rd Annual Meeting in Grand Rapids, Michigan USA. (oral presentation)
+[37] **Thornbrugh D.**, D. Infante, Y. Tsang. August 24, 2023. Influences of Anthropogenic Stressors on Stream Fish: Regional Trends of Biodiversity Indices. Session: Rivers: Population Demographics and Distribution. American Fisheries Society 153rd Annual Meeting in Grand Rapids, Michigan USA. (oral presentation) [Video](https://www.youtube.com/watch?v=Jya0VoxPoyo)
 
 [36] K. Frerker, G. Nowacki, J Kroll, D Morley, R Toot, R. Risley, E. Engstrom, **D. Thornbrugh**, K. Steele, J. Barott and C. McQuiston. May 16, 2023. Ecological Mapping and Landtype Association Revision on the Superior National Forest. University of Minnesota 2023 Foresty Webinar Series. (oral presentation)
 
