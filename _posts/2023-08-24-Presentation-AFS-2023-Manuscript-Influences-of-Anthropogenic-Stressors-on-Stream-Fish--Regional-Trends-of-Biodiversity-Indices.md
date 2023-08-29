@@ -7,13 +7,13 @@ date: 2023-08-24
 __Conference__: American Fisheries Society 153rd Annual Meeting, August 20-24, 2023, Grand Rapids, Michigan USA
 
 
-__Author_list__: **Darren J. Thornbrugh**, Dana M. Infante and Yinphan Tsang
+__Author list__: **Darren J. Thornbrugh**, Dana M. Infante and Yinphan Tsang
 
-__Presentation_Title__: Influences of Anthropogenic Stressors on Stream Fish: Regional Trends of Biodiversity Indices
+__Presentation Title__: Influences of Anthropogenic Stressors on Stream Fish: Regional Trends of Biodiversity Indices
 
 __Session__: Rivers: Population Demographics and Distribution
 
-__Video_Presentation__:
+__Video Presentation__:
 
 <a href="https://www.youtube.com/watch?v=Jya0VoxPoyo" rel="noreferrer"
 title="AFS presentation link - Click to Watch!">
@@ -21,7 +21,7 @@ title="AFS presentation link - Click to Watch!">
 </a>
 
 ***
-__Publication_Citation__: **Thornbrugh, D. J.**, D. M. Infante and Y. Tsang. 2023. Regional trends of biodiversity indices in the temperate mesic United States: testing for influences of anthropogenic land use on stream fish while controlling for natural landscape variables. Water. 15(8):1591. [HTML version](https://www.mdpi.com/2073-4441/15/8/1591/htm), [https://doi.org/10.3390/w15081591](https://doi.org/10.3390/w15081591)
+__Publication Citation__: **Thornbrugh, D. J.**, D. M. Infante and Y. Tsang. 2023. Regional trends of biodiversity indices in the temperate mesic United States: testing for influences of anthropogenic land use on stream fish while controlling for natural landscape variables. Water. 15(8):1591. [HTML version](https://www.mdpi.com/2073-4441/15/8/1591/htm), [https://doi.org/10.3390/w15081591](https://doi.org/10.3390/w15081591)
 
 __Special Issue of *Water*__: [Disentangling Influences of Natural and Human Factors on Aquatic Ecosystems](https://www.mdpi.com/journal/water/special_issues/aquatic_systems)
 
