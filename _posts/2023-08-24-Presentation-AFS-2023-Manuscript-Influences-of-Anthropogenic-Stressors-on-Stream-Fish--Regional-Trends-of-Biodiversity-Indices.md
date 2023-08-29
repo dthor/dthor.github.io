@@ -7,9 +7,9 @@ date: 2023-08-24
 __Conference__: American Fisheries Society 153rd Annual Meeting, August 20-24, 2023, Grand Rapids, Michigan USA
 
 
-__Author_list__: **Darren J. Thornbrugh**, Dana M. Infante and Yinphan Tsang
+__Author list__: **Darren J. Thornbrugh**, Dana M. Infante and Yinphan Tsang
 
-__Presentation_Title__: Influences of Anthropogenic Stressors on Stream Fish: Regional Trends of Biodiversity Indices
+__Presentation Title__: Influences of Anthropogenic Stressors on Stream Fish: Regional Trends of Biodiversity Indices
 
 __Session__: Rivers: Population Demographics and Distribution
 
