@@ -13,7 +13,7 @@ __Presentation_Title__: Influences of Anthropogenic Stressors on Stream Fish: Re
 
 __Session__: Rivers: Population Demographics and Distribution
 
-[![Final video of fixing issues in your code in VS Code]
+[![AFS link to Video]
 (https://i9.ytimg.com/vi/Jya0VoxPoyo/mqdefault.jpg?v=64ee3dd4&sqp=CNj7uKcG&rs=AOn4CLB81ZUcoFfYkLnGCgSf3K5DLFsaZQ)]
 (https://www.youtube.com/watch?v=Jya0VoxPoyo)
 
