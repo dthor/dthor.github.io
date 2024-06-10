@@ -71,6 +71,8 @@ Milwaukee, WI 53202
 
 ### PRESENTATIONS 
 ***
+[39] **Thornbrugh D.**, T. Hobbs. April 30, 2024. Terrain Analysis with Digital Elevation Models, Red Relief Image Map and Geomorphorns. Eastern Region Ecology Call National Forest Service. (invited presentation)
+
 [38] **Thornbrugh D.**, D. Infante, Y. Tsang. December 7, 2023. Influences of Anthropogenic Stressors on Stream Fish. Eastern Region Aquatics Call National Forest Service. (invited presentation) 
 
 [37] **Thornbrugh D.**, D. Infante, Y. Tsang. August 24, 2023. Influences of Anthropogenic Stressors on Stream Fish: Regional Trends of Biodiversity Indices. Session: Rivers: Population Demographics and Distribution. American Fisheries Society 153rd Annual Meeting in Grand Rapids, Michigan USA. (oral presentation) [Video](https://www.youtube.com/watch?v=Jya0VoxPoyo)
