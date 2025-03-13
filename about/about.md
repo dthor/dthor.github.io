@@ -10,7 +10,7 @@ header: images/dee_santiam_river_clip.JPG
 
 ***
 
-### NATURAL RESOURCE SPECIALIST (Analyst)    
+### NATURAL RESOURCE SPECIALIST (Geospatial Analyst)    
 
 ***
                          
