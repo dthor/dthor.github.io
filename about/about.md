@@ -71,7 +71,11 @@ Milwaukee, WI 53202
 
 ### PRESENTATIONS 
 ***
-[39] **Thornbrugh D.**, T. Hobbs. April 30, 2024. Terrain Analysis with Digital Elevation Models, Red Relief Image Map and Geomorphorns. Eastern Region Ecology Call National Forest Service. (invited presentation)
+[41] **Thornbrugh D.**, T. Hobbs. January 29, 2026. Using Red Relief and Geomorphon Imagery to Understand the Landscape for Natural Resource Management. National Forest Service, Eastern Region, Soil, Water, Air, and Fisheries - Brown Bag. (invited presentation)
+
+[40] **Thornbrugh D.**, T. Hobbs. September 24, 2025. Terrain Analysis with Digital Elevation Models, Red Relief Image Map and Geomorphorns. National Forest Service, Eastern Region, Information Management (Monthly Call). (invited presentation)
+
+[39] **Thornbrugh D.**, T. Hobbs. April 30, 2024. Terrain Analysis with Digital Elevation Models, Red Relief Image Map and Geomorphorns. National Forest Service, Eastern Region, Ecology (Monthly Call) National Forest Service. (invited presentation)
 
 [38] **Thornbrugh D.**, D. Infante, Y. Tsang. December 7, 2023. Influences of Anthropogenic Stressors on Stream Fish. Eastern Region Aquatics Call National Forest Service. (invited presentation) 
 
