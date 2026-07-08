@@ -1,7 +1,7 @@
 # Red Relief Image Map (RRIM) Tools for ArcGIS Pro  
 ### High‑Performance, Dependency‑Free Terrain Visualization
 
-![RRIM Banner](https://github.com/Darren-Thornbrugh/RRIM_Toolbox/blob/main/rrim-banner.png)
+![RRIM Banner](https://raw.githubusercontent.com/Darren-Thornbrugh/RRIM_Toolbox/main/rrim-banner.png)
 
 The **RRIM Toolbox** is now available as a fully ArcGIS Pro–native Python toolbox designed for high‑resolution terrain visualization in geomorphology, archaeology, hydrology, and landscape analysis.
 
@@ -20,7 +20,8 @@ All tools run inside ArcGIS Pro’s default Python environment using only NumPy 
 ## 🔗 GitHub Repository  
 Explore the toolbox, source code, and examples:
 
-**https://github.com/Darren-Thornbrugh/RRIM_Toolbox**
+[![RRIM Toolbox](https://github-readme-stats.vercel.app/api/pin/?username=Darren-Thornbrugh&repo=RRIM_Toolbox&theme=dark)](https://github.com/Darren-Thornbrugh/RRIM_Toolbox)
+
 
 ## 📘 Documentation  
 Full details, parameters, and workflow descriptions:
@@ -31,9 +32,8 @@ Full details, parameters, and workflow descriptions:
 
 ## 📦 GitHub Card
 
-<a href="https://github.com/Darren-Thornbrugh/RRIM_Toolbox">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Darren-Thornbrugh&repo=RRIM_Toolbox&theme=dark" />
-</a>
+[![RRIM Toolbox](https://github-readme-stats.vercel.app/api/pin/?username=Darren-Thornbrugh&repo=RRIM_Toolbox&theme=dark)](https://github.com/Darren-Thornbrugh/RRIM_Toolbox)
+
 
 ---
 
