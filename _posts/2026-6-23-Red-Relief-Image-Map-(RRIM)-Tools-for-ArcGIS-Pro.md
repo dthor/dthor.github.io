@@ -1,4 +1,3 @@
-# Red Relief Image Map (RRIM) Tools for ArcGIS Pro  
 ### High‑Performance, Dependency‑Free Terrain Visualization
 
 ![RRIM Banner](https://raw.githubusercontent.com/Darren-Thornbrugh/RRIM_Toolbox/main/rrim-banner.png)
