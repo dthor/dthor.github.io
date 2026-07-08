@@ -20,7 +20,7 @@ All tools run inside ArcGIS Pro’s default Python environment using only NumPy 
 ## 🔗 GitHub Repository  
 Explore the toolbox, source code, and examples:
 
-[![RRIM Toolbox](https://github-readme-stats-git-masterorg.vercel.app/api/pin/?username=Darren-Thornbrugh&repo=RRIM_Toolbox&theme=dark)](https://github.com/Darren-Thornbrugh/RRIM_Toolbox)
+**[RRIM Toolbox](https://github.com/Darren-Thornbrugh/RRIM_Toolbox)**
 
 
 
