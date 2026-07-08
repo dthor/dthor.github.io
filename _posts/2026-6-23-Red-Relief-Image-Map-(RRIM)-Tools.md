@@ -31,13 +31,6 @@ Full details, parameters, and workflow descriptions:
 
 ---
 
-## 📦 GitHub Card
-
-[![RRIM Toolbox](https://github-readme-stats-git-masterorg.vercel.app/api/pin/?username=Darren-Thornbrugh&repo=RRIM_Toolbox&theme=dark)](https://github.com/Darren-Thornbrugh/RRIM_Toolbox)
-
-
----
-
 ## 🛰️ About RRIM
 
 Red Relief Image Maps combine openness, slope, and color‑mapped blending to produce high‑contrast terrain visualizations ideal for scientific analysis and publication‑quality figures.  
