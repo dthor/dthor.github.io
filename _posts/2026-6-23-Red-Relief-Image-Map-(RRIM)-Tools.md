@@ -33,7 +33,7 @@ Full details, parameters, and workflow descriptions:
 
 ## 📦 GitHub Card
 
-[![RRIM Toolbox](https://github-readme-stats.vercel.app/api/pin/?username=Darren-Thornbrugh&repo=RRIM_Toolbox&theme=dark)](https://github.com/Darren-Thornbrugh/RRIM_Toolbox)
+[![RRIM Toolbox](https://github-readme-stats-git-masterorg.vercel.app/api/pin/?username=Darren-Thornbrugh&repo=RRIM_Toolbox&theme=dark)](https://github.com/Darren-Thornbrugh/RRIM_Toolbox)
 
 
 ---
