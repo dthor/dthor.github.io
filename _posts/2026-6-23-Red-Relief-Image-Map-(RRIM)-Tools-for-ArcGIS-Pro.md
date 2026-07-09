@@ -31,7 +31,7 @@ Explore the toolbox, source code, and examples:
 ## 📘 Documentation  
 Full details, parameters, and workflow descriptions:
 
-**https://github.com/Darren-Thornbrugh/RRIM_Toolbox/blob/main/README.md**
+**[RRIM Toolbox - README](https://github.com/Darren-Thornbrugh/RRIM_Toolbox/blob/main/README.md)**
 
 ---
 
