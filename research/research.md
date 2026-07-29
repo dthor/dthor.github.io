@@ -27,6 +27,7 @@ Fig. 3. Thornbrugh et al. 2018, Index of Watershed Integrity for the conterminou
 **Project:** Red Relief Image Map (RRIM) for northeast Minnesota for Chippewa and Superior National Forests
 
 **Collaborators:** Darren Thornbrugh and Trevor Hobbs
+**Developer and Author:** Darren Thornbrugh
 
 <img class="pure-img" src="/images/UpperMississippiRiver.jpg" width="" height="" style="margin-bottom:10px; border:1px solid #000000;" alt="Darren Thornbrugh, Ph.D.">
 Image 1. Red Relief Image Map of the Mississippi River and floodplain in Minnesota near Jacobson MN, southeast of Grand Rapids, MN.
@@ -40,6 +41,19 @@ The RRIM effectively represents topographic data in a shade free 3D single image
 
 <img class="pure-img" src="/images/Progression.jpg" width="" height="" style="margin-bottom:10px; border:1px solid #000000;" alt="Darren Thornbrugh, Ph.D.">
 Image 2. Photo progression comparing visual outputs for Imagery, Hill-shade, Contours, Slope gradient, Openness index, Red Relief Image Map (RRIM), and RRIM + Contours
+
+***
+**Project:** Geomorphon development for the Forest Service Eastern Regions National Forests
+
+**Developer and Author:** Darren Thornbrugh
+
+<img class="pure-img" src="/images/HMgeomorph.jpg" width="" height="" style="margin-bottom:10px; border:1px solid #000000;" alt="Darren Thornbrugh, Ph.D.">
+Image 1. Geomorphons of the Manistee River near Manistee, Michigan on Huron-Manistee National Forest. 
+
+
+ **Summary:** Geomorphons (geomorphologic phonotypes): Geomorphons classify topographic landform elements and map terrain morphology from simple local ternary patterns (Jasiewicz and Stepinski 2013). From an elevation model you can look at the patterns of surrounding cells from each cell and determine if the neighborhood cells are higher, lower, or the same height. You can reclassify the elevation model from the local ternary patterns into basic morphological patterns (e.g., flat, summit, ridge, shoulder, spur, slope, hollow, footslope, valley, depression). Your can colorize your morphologic classes and map the results creating a  general purpose geomorphometric map of the most common landform morphological elements. 
+
+Jasiewicz, J. and Stepinski, T.F., 2013. Geomorphons—a pattern recognition approach to classification and mapping of landforms. Geomorphology, 182, pp.147-156.
 
 ***
 
