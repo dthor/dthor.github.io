@@ -9,8 +9,6 @@ title: "Release Update: RRIM Toolbox for ArcGIS Pro with Massive-Raster Tiling &
 
 A major production update to the **[RRIM_Toolbox](https://github.com/Darren-Thornbrugh/RRIM_Toolbox)** for ArcGIS Pro is now live. Engineered specifically for massive LiDAR-derived DEMs, statewide elevation collections, and big-data GIS production pipelines, this release introduces an end-to-end **2048 × 2048 windowed tiling engine** and optimized multi-core batch processing.
 
-Memory allocation crashes (`numpy.core._exceptions._ArrayMemoryError`) on rasters exceeding 60,000 × 70,000 cells (16+ GB) are eliminated, allowing seamless terrain processing on standard workstation hardware.
-
 ---
 
 ## 🚀 What’s New in This Release
